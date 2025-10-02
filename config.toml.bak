@@ -1,3 +1,6 @@
 title = "Imaging the human auditory system"
 tag = "AuditoryImaging_UTSW_10_02_2025"
 base_url = "http://sitek.github.io"
+remote = "git@github.com:sitek/talk-auditory-imaging.git"
+talk_url = "http://sitek.github.io/talk-auditory-imaging/talk/talk.html"
+repo_url = "http://sitek.github.io/talk-auditory-imaging"

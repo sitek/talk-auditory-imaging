@@ -1,13 +1,18 @@
 ---
-title: "Talk template" 
-author: Russ Poldrack
-institute: Stanford University
+title: "Imaging the human auditory system" 
+subtitle: "Neuroanatomy, categorization, and motor feedback processing"
+author: "Kevin R. Sitek, Ph.D."
+institute: Northwestern University
+date: October 6, 2025
+
 title-slide-attributes:
-    data-background-image: ./images/stanford_background.jpg
-    data-background-opacity: "0.5"
+    data-background-image: /images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png
+    data-background-size: contain
+    data-background-opacity: "0.25"
+
 format:
   revealjs: 
-    footer: "https://poldrack.github.io/talks-template/"
+    footer: "http://sitek.github.io/talk-auditory-imaging"
     slide-number: true
     chalkboard: 
       buttons: false
@@ -17,4 +22,703 @@ format:
     width: 1920
 ---
 
-## Template slide
+
+# Introduction
+::: {.notes}
+Speaker notes go here.
+:::
+
+## What's special about the auditory system?
+
+::: {layout="[60,40]"}
+
+![Kaas & Hackett (2000)](images/schematic-auditorysystem.png){fig-align="center" height=400}
+
+![Van Essen et al. (1992)](images/schematic-visualsystem.png){fig-align="center" height=400}
+
+:::
+
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## The human subcortical auditory system
+
+:::: {.columns}
+
+::: {.column}
+![](images/Rotation_brainstem_and_thalamus.gif){.fragment}
+:::
+
+::: {.column}
+![](images/Auditory_Pathway.png){fig-align="center" height=500 .fragment}
+:::
+
+::::
+
+
+::: {.notes}
+Across human behaviors, studying the brainstem is challenging.
+- In vivo MRI limited by:
+ - high resolution needed for small structures
+ - decreased signal as voxels get smaller
+ - decreased signal in brainstem
+- Limited spatial information from EEG, MEG
+- Some human histology studies (nuclei)
+- Tracer studies (connections) only in animal models
+:::
+
+## Imaging the human subcortical auditory system {.smaller}
+
+::: {.incremental}
+
+
+::: {layout="[[1,1,1]]"  layout-valign="center"}
+![Subcortical system responds more strongly to loud broadband sounds (Sigalovsky & Melcher, 2006)](images/SigalovskyMelcher2006.png){.fragment}
+
+![Subcortical auditory system responds tonotopically (7T fMRI; Moerel et al., 2015)](images/Moerel2015.png){.fragment}
+
+![Probabilistic pathways reaching auditory thalamus (Devlin et al., 2006)](images/Devlin2006_combined.png){.fragment}
+:::
+
+::: 
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## My contributions
+
+::: {.incremental}
+
+- Mapping the human subcortical auditory system
+- Auditory–motor interactions across the auditory pathway
+- Auditory categorization in the human brain
+- Communication in practice: Sharing our science
+
+::: 
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+# Mapping the human subcortical auditory system
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Brainstem anatomy: Gold standard vs. standard practice
+
+::: {layout-ncol=2}
+![Histology (Paxinos et al., 2019)](images/Paxinos2019.png){height="420" .fragment}
+
+![In vivo 7T MRI (Sitek & Gulban et al., 2019)](images/SitekGulban2019_invivo.png){height="420" .fragment}
+
+:::
+
+## *Where* are the auditory structures in humans?
+
+::: {.incremental}
+
+- Human histology: BigBrain (20 µm)
+- Post mortem brainstem MRI (small-bore 7 Tesla Bruker MRI)
+  - T2*-weighted anatomy (50 µm)
+  - Diffusion-weighted MRI (200 µm)
+- 7 Tesla functional MRI (Siemens Magnetom; 1.1 mm voxels)
+  - 168 natural sounds (1 s each); sound > baseline contrast
+  - Collected over 2 sessions
+
+::: 
+
+## Human histology mapping
+
+![](images/SitekGulban2019/fig_literature_and_bigbrain.png){fig-align="center" height=450}
+
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Sitek* and Gulban* et al. (2019 *eLife*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Post mortem MRI mapping
+
+::: {layout-ncol=2}
+![](images/SitekGulban2019_postmortem-1_labeled.png){height="420" .fragment}
+
+![](images/SitekGulban2019_postmortem-2_labeled.png){height="420" .fragment}
+
+:::
+
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Sitek* and Gulban* et al. (2019 *eLife*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## In vivo functional MRI mapping
+![](images/SitekGulban2019/fig_invivo_statmaps_and_exvivo_vasculature.png){fig-align="center" height=450}
+
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Sitek* and Gulban* et al. (2019 *eLife*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## *Where* are the auditory structures: Public atlases from three sources
+
+::: {.r-stack}
+{{< video images/SitekGulban2019/elife-48932-fig9-video1.mp4 >}}
+
+![](images/SitekGulban2019/fig_MNI-videos_bigbrain_postmortem_invivo_statmap_invivo_overlap.png){.fragment fig-align="center"}
+:::
+
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Sitek* and Gulban* et al. (2019 *eLife*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+# Connectivity of the human subcortical auditory system
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Anatomical connectivity mapping with diffusion-weighted MRI {.smaller}
+
+::: {layout="[50,50]"  layout-valign="center"}
+
+::: {.incremental}
+- Look at how MRI signal varies across directions of molecular motion 
+- Since white matter constrains the motion of water molecules, we can infer orientation of white matter in each voxel
+- Then traverse voxel-to-voxel to estimate pathways
+:::
+
+![whole-brain diffusion tractography (HCP MGH Connectom data)](images/Connectom_tractogram.png){}
+
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## How are the auditory structures connected **anatomically**?
+
+::: {.incremental}
+
+::: {layout-ncol=2}
+
+::: {.r-stack}
+{{< video images/SitekGulban2019/elife-48932-fig3-video1.mp4 width="300%" height="300%" >}}
+
+![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=390 .fragment} 
+:::
+
+::: {.r-stack}
+{{< video images/SitekGulban2019/elife-48932-fig6-video1.mp4 width="300%" height="300%" >}}
+
+![In vivo](images/SitekGulban2019/fig_invivo_diffusion_schematic_heatmap+schematic_16May.png){fig-align="center" height=390 .fragment}
+:::
+:::
+:::
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Sitek* and Gulban* et al. (2019 *eLife*); 
+Sitek et al. (2022 *Frontiers Neuro*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## How are the auditory structures connected **functionally**?{.smaller}
+
+::: {layout="[50,50]"  layout-valign="center"}
+
+![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){data-id="fig1"}
+
+::: {.incremental}
+- 7T Human Connectome Project (106 participants)
+- 4 runs of resting state fMRI
+  - 1 s x 900 TRs
+  - 2 Anterior–Posterior runs, 2 Posterior–Anterior runs
+- Partial correlations via novel autoregressive matrix-Gaussian copula graphical model
+:::
+
+:::
+
+![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## How are the auditory structures connected **functionally**?
+
+::: {layout="[50,25,25]"}
+![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){data-id="fig1"}
+
+![](images/ChandraSitek/FAC_fig-2_main-result_AP.png){.fragment}
+
+![](images/ChandraSitek/FAC_fig-2_main-result_PA.png){.fragment}
+:::
+
+![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## How is the brainstem supplied oxygen?
+
+*insert vasculature figure here*
+
+::: aside
+OHBM 2023, 2024, 2025
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## But what if we don't have a 7T MRI?
+
+#### Multi-echo fMRI improves brainstem sensitivity at 3T
+
+![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="100" height="100"}
+
+
+:::: {.columns}
+
+::: {.column}
+High sensitivity across individuals
+
+![](images/Medina2025/Medina_Picture1.png){fig-align="center" height=300}
+:::
+
+::: {.column}
+High reliability within individuals 
+
+*Images here*
+
+:::
+
+::::
+
+::: aside
+Medina et al. (in prep.; ISMRM 2025)
+:::
+
+::: {.notes}
+So far, each of the results I've shown have used 7 Tesla MRI. 
+These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. 
+But they're still much less common than 3 Tesla MRIs. 
+Fortunately, data acquisition protocols have improved sensitivty even at 3T, 
+so that we can reliably identify auditory midbrain and thalamus.
+:::
+
+# Auditory–motor interactions across the auditory pathway
+
+::: {.notes}
+So far I've focused on the basics: where are human auditory structures, and how are they connected. 
+Ultimately, we want to *use* these approaches to learn more about the *function* of the human brain 
+*in action*. 
+:::
+
+## Human speech and auditory feedback processing
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Cortical feedback processing in animals
+
+:::: {.columns}
+
+::: {.column}
+#### Monkey auditory^[Eliades & Wang (xxxx)]
+
+*Images here*
+
+:::
+
+::: {.column}
+#### Mouse auditory–motor^[Schneider et al. (2014)]
+
+*Images here*
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## *Sub*cortical feedback processing in animals
+
+:::: {.columns}
+
+::: {.column}
+#### Top-down control
+
+*Images here*
+
+:::
+
+::: {.column}
+#### Mouse licking in DCN^[Singla et al. (2017)]
+
+*Images here*
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Processing variability in our own speech
+
+![](images/Sitek2013_Fig1.png){fig-align="center" height=400}
+
+::: aside
+Sitek et al. (2013  *PLOS ONE*)
+:::
+
+::: {.notes}
+Houde; Niziolek; Chang; 
+:::
+
+## *Where* are motor signals integrated?
+
+![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="100" height="100"}
+
+
+- Frequency-following response (FFR) shows the fidelity of incoming sound encoding
+- If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
+- No FFR differences, despite cortical response differences
+- Motor signals unlikely to attenuate earliest central auditory signals
+
+::: aside
+Butler, ..., Sitek (in prep; SNL 2025)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## *Where* are motor signals integrated?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- We can look at intra-cortical circuits with ultra-high field 7T fMRI
+- Cortical depth profile differences during self-generated vs. passive sound
+- Replicates in the same participant in both 1 mm and 0.8 mm resolution scans
+:::
+
+::: {.column width=50%"}
+*put an image here!*
+
+![](images/7T_replication.png)
+:::
+
+::::
+
+::: aside
+Sitek et al. (in prep; OHBM 2025)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+# Auditory categorization in the human brain
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Auditory categorization in the human brain
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Pathways for auditory learning and categorization
+
+![](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height=400}
+
+::: aside
+Sitek et al. (2022 preprint); 
+Sitek et al. (submitted)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Auditory categorization in the human brain
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Auditory categorization in the human brain
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Finger representation in the human brain {.smaller}
+
+::: {layout-ncol=3}
+![](images/Moya_etal_2025/dmncADL.png)
+
+![](images/Moya_etal_2025/dmncADR.png)
+
+![](images/Moya_etal_2025/dmncPVR.png)
+:::
+
+Posterior mean dominance greater than 25% across voxels for the [right index  (red)]{style="color:red;"}, [left index (blue)]{style="color:blue;"}, and [middle fingers (green)]{style="color:green;"}. 
+
+![](images/people/BlakeMoya.jpeg){.absolute bottom=10 right=10 width="100" height="100"}
+
+::: aside
+Moya et al. (in prep.)
+:::
+
+::: {.notes}
+Moya et al.
+Results for the fingertip mapping study:     
+Fingertip dominance across the investigated regions. Posterior mean dominance greater than $25\%$ is shown across voxels for the right index finger (red), left index (blue), and middle fingers (green) based on the estimated partition structures and the estimated effect intensities.     
+Colors blend when two or more fingers exhibit greater than $25\%$ dominance probabilities at the same location,     showing areas of competing dominance for the right index and either middle finger (yellow), left index and either middle finger (cyan), and the two index fingers (purple).
+:::
+
+## The developing auditory system
+
+#### How do we learn to hear in noisy environments?
+
+- Adults: maturation of speech network + compensatory networks
+- Children: fine-tuning speech network + undeveloped frontal networks
+
+
+::: aside
+Sitek et al. (in prep.; SNL 2025)
+:::
+
+::: {.notes}
+SSP
+:::
+
+## The developing auditory system
+
+#### Speech-in-quiet vs. baseline
+
+![](images/Sitek_SSP_quiet-gt-baseline.png){fig-align="center"}
+
+::: aside
+Sitek et al. (in prep.; SNL 2025)
+:::
+
+::: {.notes}
+SSP
+:::
+
+## The developing auditory system
+
+#### Speech-in-quiet vs. -6 dB SNR
+
+![](images/Sitek_SSP_quiet-gt-n6.png){fig-align="center"}
+
+::: aside
+Sitek et al. (in prep.; SNL 2025)
+:::
+
+::: {.notes}
+SSP
+:::
+
+# Communication in practice: Sharing our science
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Science is not a silo
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Communicating our science:
+
+- builds community
+- strengthens impact
+- increases resilience
+:::
+
+::: {.column width=50%"}
+*put an image here!*
+:::
+
+::::
+
+::: aside
+Sitek et al. (2025 *Aperture Neuro*); 
+Wearn, Sitek, et al. (2025 *Aperture Neuro*)
+:::
+
+::: {.notes}
+Sitek et al. (2025 *Aperture Neuro*); 
+Wearn, Sitek, et al. (2025 *Aperture Neuro*)
+:::
+
+
+# Wrapping up
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Non-invasively investigating the human auditory brainstem
+
+::: {.incremental}
+
+- Mapping the human subcortical auditory system
+- Auditory–motor interactions across the auditory pathway
+- Auditory categorization in the human brain
+- Communication in practice: Sharing our science
+
+::: 
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Acknowledgments {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+#### SoundBrain Lab
+*especially:*
+
+- Bharath Chandrasekaran
+- Nike Gnanateja (now UW Madison)
+- Casey Roark (now U New Hampshire)
+- Jacie McHaney
+- Kailyn McFarlane
+
+![FFR Workshop 2024](images/people/SoundBrain-lab-current-members-and-alum_FFR-workshop-2024-550x310.jpg)
+
+:::
+
+::: {.column width=50%"}
+**Northwestern**: Molly Bright, Michelle Medina (*BME PhD student*)
+
+**UT Austin collaborators**: Abhra Sarkar, Noirrit Chandra (*now UT Dallas Statistics*), Blake Moya (*now in industry*)
+
+**Pitt**: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (*K01 co-mentor*)
+
+#### Funding and support
+- K01 DC019421 (2023–2027)
+- R21 DC022906 (2025–2028)
+- R01 DC020963 (2024–2027; PI: Bohland)
+
+![](images/US-NIH-NIDCD-Logo.svg){fig-align="center" height=100}
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+# Thank you!
+
+#
+
+# Future directions
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Future directions: Hearing loss
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+#### Speech-in-noise difficulties in middle age 
+*put an image here!*
+
+:::
+
+::: {.column width=50%"}
+#### Neural predictors of cochlear implant success
+*put an image here!*
+:::
+
+::::
+
+::: aside
+:::
+
+::: {.notes}
+:::
+
+## Future directions: Analysis methods
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+#### `ffrprep`
+*put an image here!*
+
+:::
+
+::: {.column width=50%"}
+#### Ex 2
+*put an image here!*
+:::
+
+::::
+
+::: aside
+:::
+
+::: {.notes}
+:::
