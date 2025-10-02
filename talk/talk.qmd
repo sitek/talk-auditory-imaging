@@ -32,9 +32,9 @@ Speaker notes go here.
 
 ::: {layout="[60,40]"}
 
-![Kaas & Hackett (2000)](images/schematic-auditorysystem.png){fig-align="center" height=400}
+![Kaas & Hackett (2000)](images/schematic-auditorysystem.png){fig-align="center" height='600'}
 
-![Van Essen et al. (1992)](images/schematic-visualsystem.png){fig-align="center" height=400}
+![Van Essen et al. (1992)](images/schematic-visualsystem.png){fig-align="center" height='600'}
 
 :::
 
@@ -53,7 +53,7 @@ Speaker notes go here.
 :::
 
 ::: {.column}
-![](images/Auditory_Pathway.png){fig-align="center" height=500 .fragment}
+![](images/Auditory_Pathway.png){fig-align="center" height=800 .fragment}
 :::
 
 ::::
@@ -94,6 +94,9 @@ Speaker notes go here.
 ::: {.incremental}
 
 - Mapping the human subcortical auditory system
+  - Anatomy
+  - Function
+  - Connectivity (structural and functional)
 - Auditory–motor interactions across the auditory pathway
 - Auditory categorization in the human brain
 - Communication in practice: Sharing our science
@@ -113,9 +116,9 @@ Speaker notes go here.
 ## Brainstem anatomy: Gold standard vs. standard practice
 
 ::: {layout-ncol=2}
-![Histology (Paxinos et al., 2019)](images/Paxinos2019.png){height="420" .fragment}
+![Histology (Paxinos et al., 2019)](images/Paxinos2019.png){.fragment}
 
-![In vivo 7T MRI (Sitek & Gulban et al., 2019)](images/SitekGulban2019_invivo.png){height="420" .fragment}
+![In vivo 7T MRI (Sitek & Gulban et al., 2019)](images/SitekGulban2019_invivo.png){.fragment}
 
 :::
 
@@ -135,9 +138,9 @@ Speaker notes go here.
 
 ## Human histology mapping
 
-![](images/SitekGulban2019/fig_literature_and_bigbrain.png){fig-align="center" height=450}
+![](images/SitekGulban2019/fig_literature_and_bigbrain.png){fig-align="center" height=800}
 
-![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Sitek* and Gulban* et al. (2019 *eLife*)
@@ -156,7 +159,7 @@ Speaker notes go here.
 
 :::
 
-![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Sitek* and Gulban* et al. (2019 *eLife*)
@@ -167,9 +170,9 @@ Speaker notes go here.
 :::
 
 ## In vivo functional MRI mapping
-![](images/SitekGulban2019/fig_invivo_statmaps_and_exvivo_vasculature.png){fig-align="center" height=450}
+![](images/SitekGulban2019/fig_invivo_statmaps_and_exvivo_vasculature.png){fig-align="center" height=800}
 
-![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Sitek* and Gulban* et al. (2019 *eLife*)
@@ -187,7 +190,7 @@ Speaker notes go here.
 ![](images/SitekGulban2019/fig_MNI-videos_bigbrain_postmortem_invivo_statmap_invivo_overlap.png){.fragment fig-align="center"}
 :::
 
-![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Sitek* and Gulban* et al. (2019 *eLife*)
@@ -228,19 +231,19 @@ Speaker notes go here.
 ::: {layout-ncol=2}
 
 ::: {.r-stack}
-{{< video images/SitekGulban2019/elife-48932-fig3-video1.mp4 width="300%" height="300%" >}}
+{{< video images/SitekGulban2019/elife-48932-fig3-video1.mp4 width="600%" height="600%" >}}
 
-![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=390 .fragment} 
+![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=800 .fragment} 
 :::
 
 ::: {.r-stack}
-{{< video images/SitekGulban2019/elife-48932-fig6-video1.mp4 width="300%" height="300%" >}}
+{{< video images/SitekGulban2019/elife-48932-fig6-video1.mp4 width="600%" height="600%" >}}
 
-![In vivo](images/SitekGulban2019/fig_invivo_diffusion_schematic_heatmap+schematic_16May.png){fig-align="center" height=390 .fragment}
+![In vivo](images/SitekGulban2019/fig_invivo_diffusion_schematic_heatmap+schematic_16May.png){fig-align="center" height=800 .fragment}
 :::
 :::
 :::
-![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Sitek* and Gulban* et al. (2019 *eLife*); 
@@ -253,7 +256,7 @@ Speaker notes go here.
 
 ## How are the auditory structures connected **functionally**?{.smaller}
 
-::: {layout="[50,50]"  layout-valign="center"}
+::: {layout="[50,50]"}
 
 ![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){data-id="fig1"}
 
@@ -267,7 +270,7 @@ Speaker notes go here.
 
 :::
 
-![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
@@ -279,7 +282,7 @@ Speaker notes go here.
 
 ## How are the auditory structures connected **functionally**?
 
-::: {layout="[50,25,25]"}
+::: {layout="[50,25,25]"   layout-valign="center"}
 ![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){data-id="fig1"}
 
 ![](images/ChandraSitek/FAC_fig-2_main-result_AP.png){.fragment}
@@ -287,7 +290,7 @@ Speaker notes go here.
 ![](images/ChandraSitek/FAC_fig-2_main-result_PA.png){.fragment}
 :::
 
-![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
@@ -297,9 +300,16 @@ Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
 Speaker notes go here.
 :::
 
-## How is the brainstem supplied oxygen?
+## How is the brainstem supplied oxygen? {.nostretch}
 
-*insert vasculature figure here*
+![](images/Xu2025/vasculature_T2w.png){.absolute top=10 right=10 width="300" height="300"}
+
+![](images/Xu2025/vasculature_all.png){height="800" fig-align="center" .fragment}
+
+
+
+
+![](images/people/MarshallXu.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 OHBM 2023, 2024, 2025
@@ -311,23 +321,66 @@ Speaker notes go here.
 
 ## But what if we don't have a 7T MRI?
 
-#### Multi-echo fMRI improves brainstem sensitivity at 3T
+### Multi-echo fMRI improves brainstem sensitivity at 3T
 
-![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 
 :::: {.columns}
 
-::: {.column}
-High sensitivity across individuals
-
-![](images/Medina2025/Medina_Picture1.png){fig-align="center" height=300}
+::: {.column .fragment}
+- Multi-echo fMRI acquisition
+  - Echo times = 13.40/39.5/65.6 ms
+  - Repetition time = 2.2 s
+  - Multiband factor = 2
+  - Voxel size = 1.731×1.731×4 mm^3
+  - Whole-brain coverage (44 slices, FOV=180mm)
+- Multi-echo optimal combination + ICA noise removal (`tedana`)
 :::
 
-::: {.column}
+::: {.column  .fragment}
+![](images/Medina2025/Medina_task.png){fig-align="center" height=600}
+:::
+
+::::
+
+::: aside
+Medina et al. (in prep.; ISMRM 2025)
+:::
+
+::: {.notes}
+So far, each of the results I've shown have used 7 Tesla MRI. 
+These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. 
+But they're still much less common than 3 Tesla MRIs. 
+Fortunately, data acquisition protocols have improved sensitivty even at 3T, 
+so that we can reliably identify auditory midbrain and thalamus.
+:::
+
+## But what if we don't have a 7T MRI?
+
+### Multi-echo fMRI improves brainstem sensitivity at 3T
+
+
+![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
+
+
+:::: {.columns}
+
+::: {.column .fragment}
+High sensitivity across individuals
+
+::: {.r-stack}
+![](images/Medina2025/Medina_cortex.png){.fragment fig-align="center" height=600}
+
+![](images/Medina2025/Medina_overview.png){.fragment fig-align="center" height=700}
+:::
+
+:::
+
+::: {.column .fragment}
 High reliability within individuals 
 
-*Images here*
+![](images/Medina2025/Medina_sub-01.png){fig-align="center" height=600}
 
 :::
 
@@ -407,7 +460,7 @@ Speaker notes go here.
 
 ## Processing variability in our own speech
 
-![](images/Sitek2013_Fig1.png){fig-align="center" height=400}
+![](images/Sitek2013_Fig1.png){fig-align="center" height=800}
 
 ::: aside
 Sitek et al. (2013  *PLOS ONE*)
@@ -419,7 +472,7 @@ Houde; Niziolek; Chang;
 
 ## *Where* are motor signals integrated?
 
-![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 
 - Frequency-following response (FFR) shows the fidelity of incoming sound encoding
@@ -476,7 +529,7 @@ Speaker notes go here.
 
 ## Pathways for auditory learning and categorization
 
-![](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height=400}
+![](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height=800}
 
 ::: aside
 Sitek et al. (2022 preprint); 
@@ -511,7 +564,7 @@ Speaker notes go here.
 
 Posterior mean dominance greater than 25% across voxels for the [right index  (red)]{style="color:red;"}, [left index (blue)]{style="color:blue;"}, and [middle fingers (green)]{style="color:green;"}. 
 
-![](images/people/BlakeMoya.jpeg){.absolute bottom=10 right=10 width="100" height="100"}
+![](images/people/BlakeMoya.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
 Moya et al. (in prep.)
@@ -681,13 +734,13 @@ Speaker notes go here.
 
 ::: {.column width="50%"}
 
-#### Speech-in-noise difficulties in middle age 
+### Speech-in-noise difficulties in middle age 
 *put an image here!*
 
 :::
 
 ::: {.column width=50%"}
-#### Neural predictors of cochlear implant success
+### Neural predictors of cochlear implant success
 *put an image here!*
 :::
 
@@ -705,13 +758,13 @@ Speaker notes go here.
 
 ::: {.column width="50%"}
 
-#### `ffrprep`
+### `ffrprep`
 *put an image here!*
 
 :::
 
 ::: {.column width=50%"}
-#### Ex 2
+### Ex 2
 *put an image here!*
 :::
 
