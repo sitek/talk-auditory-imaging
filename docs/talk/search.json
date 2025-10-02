@@ -112,6 +112,13 @@
     "text": "But what if we don’t have a 7T MRI?\nMulti-echo fMRI improves brainstem sensitivity at 3T\n\n\n\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm^3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\n\nMedina et al. (in prep.; ISMRM 2025)"
   },
   {
+    "objectID": "talk.html#but-what-if-we-dont-have-a-7t-mri-1",
+    "href": "talk.html#but-what-if-we-dont-have-a-7t-mri-1",
+    "title": "Imaging the human auditory system",
+    "section": "But what if we don’t have a 7T MRI?",
+    "text": "But what if we don’t have a 7T MRI?\nMulti-echo fMRI improves brainstem sensitivity at 3T\n\n\n\nHigh sensitivity across individuals\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh reliability within individuals\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
     "objectID": "talk.html#human-speech-and-auditory-feedback-processing",
     "href": "talk.html#human-speech-and-auditory-feedback-processing",
     "title": "Imaging the human auditory system",
@@ -243,12 +250,5 @@
     "title": "Imaging the human auditory system",
     "section": "Future directions: Analysis methods",
     "text": "Future directions: Analysis methods\n\n\nffrprep\nput an image here!\n\nEx 2\nput an image here!"
-  },
-  {
-    "objectID": "talk.html#but-what-if-we-dont-have-a-7t-mri-1",
-    "href": "talk.html#but-what-if-we-dont-have-a-7t-mri-1",
-    "title": "Imaging the human auditory system",
-    "section": "But what if we don’t have a 7T MRI?",
-    "text": "But what if we don’t have a 7T MRI?\nMulti-echo fMRI improves brainstem sensitivity at 3T\n\n\n\nHigh sensitivity across individuals\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh reliability within individuals\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\n\nMedina et al. (in prep.; ISMRM 2025)"
   }
 ]
