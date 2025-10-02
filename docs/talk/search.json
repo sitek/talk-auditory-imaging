@@ -1,9 +1,247 @@
 [
   {
-    "objectID": "talk.html#template-slide",
-    "href": "talk.html#template-slide",
-    "title": "Talk template",
-    "section": "Template slide",
-    "text": "Template slide\n\n\nhttps://poldrack.github.io/talks-template/"
+    "objectID": "talk.html#whats-special-about-the-auditory-system",
+    "href": "talk.html#whats-special-about-the-auditory-system",
+    "title": "Imaging the human auditory system",
+    "section": "What’s special about the auditory system?",
+    "text": "What’s special about the auditory system?\n\n\n\n\n\n\nKaas & Hackett (2000)\n\n\n\n\n\n\n\nVan Essen et al. (1992)\n\n\n\n\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#the-human-subcortical-auditory-system",
+    "href": "talk.html#the-human-subcortical-auditory-system",
+    "title": "Imaging the human auditory system",
+    "section": "The human subcortical auditory system",
+    "text": "The human subcortical auditory system\n\n\n\n\n\n\n\n\n\n\n\nAcross human behaviors, studying the brainstem is challenging. - In vivo MRI limited by: - high resolution needed for small structures - decreased signal as voxels get smaller - decreased signal in brainstem - Limited spatial information from EEG, MEG - Some human histology studies (nuclei) - Tracer studies (connections) only in animal models"
+  },
+  {
+    "objectID": "talk.html#imaging-the-human-subcortical-auditory-system",
+    "href": "talk.html#imaging-the-human-subcortical-auditory-system",
+    "title": "Imaging the human auditory system",
+    "section": "Imaging the human subcortical auditory system",
+    "text": "Imaging the human subcortical auditory system\n\n\n\n\n\n\n\nSubcortical system responds more strongly to loud broadband sounds (Sigalovsky & Melcher, 2006)\n\n\n\n\n\n\n\n\n\nSubcortical auditory system responds tonotopically (7T fMRI; Moerel et al., 2015)\n\n\n\n\n\n\n\n\n\nProbabilistic pathways reaching auditory thalamus (Devlin et al., 2006)\n\n\n\n\n\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#my-contributions",
+    "href": "talk.html#my-contributions",
+    "title": "Imaging the human auditory system",
+    "section": "My contributions",
+    "text": "My contributions\n\nMapping the human subcortical auditory system\nAuditory–motor interactions across the auditory pathway\nAuditory categorization in the human brain\nCommunication in practice: Sharing our science\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#brainstem-anatomy-gold-standard-vs.-standard-practice",
+    "href": "talk.html#brainstem-anatomy-gold-standard-vs.-standard-practice",
+    "title": "Imaging the human auditory system",
+    "section": "Brainstem anatomy: Gold standard vs. standard practice",
+    "text": "Brainstem anatomy: Gold standard vs. standard practice\n\n\n\n\n\n\n\nHistology (Paxinos et al., 2019)\n\n\n\n\n\n\n\n\n\nIn vivo 7T MRI (Sitek & Gulban et al., 2019)"
+  },
+  {
+    "objectID": "talk.html#where-are-the-auditory-structures-in-humans",
+    "href": "talk.html#where-are-the-auditory-structures-in-humans",
+    "title": "Imaging the human auditory system",
+    "section": "Where are the auditory structures in humans?",
+    "text": "Where are the auditory structures in humans?\n\nHuman histology: BigBrain (20 µm)\nPost mortem brainstem MRI (small-bore 7 Tesla Bruker MRI)\n\nT2*-weighted anatomy (50 µm)\nDiffusion-weighted MRI (200 µm)\n\n7 Tesla functional MRI (Siemens Magnetom; 1.1 mm voxels)\n\n168 natural sounds (1 s each); sound &gt; baseline contrast\nCollected over 2 sessions"
+  },
+  {
+    "objectID": "talk.html#human-histology-mapping",
+    "href": "talk.html#human-histology-mapping",
+    "title": "Imaging the human auditory system",
+    "section": "Human histology mapping",
+    "text": "Human histology mapping\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
+  },
+  {
+    "objectID": "talk.html#post-mortem-mri-mapping",
+    "href": "talk.html#post-mortem-mri-mapping",
+    "title": "Imaging the human auditory system",
+    "section": "Post mortem MRI mapping",
+    "text": "Post mortem MRI mapping\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
+  },
+  {
+    "objectID": "talk.html#in-vivo-functional-mri-mapping",
+    "href": "talk.html#in-vivo-functional-mri-mapping",
+    "title": "Imaging the human auditory system",
+    "section": "In vivo functional MRI mapping",
+    "text": "In vivo functional MRI mapping\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
+  },
+  {
+    "objectID": "talk.html#where-are-the-auditory-structures-public-atlases-from-three-sources",
+    "href": "talk.html#where-are-the-auditory-structures-public-atlases-from-three-sources",
+    "title": "Imaging the human auditory system",
+    "section": "Where are the auditory structures: Public atlases from three sources",
+    "text": "Where are the auditory structures: Public atlases from three sources\n\n\n\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
+  },
+  {
+    "objectID": "talk.html#anatomical-connectivity-mapping-with-diffusion-weighted-mri",
+    "href": "talk.html#anatomical-connectivity-mapping-with-diffusion-weighted-mri",
+    "title": "Imaging the human auditory system",
+    "section": "Anatomical connectivity mapping with diffusion-weighted MRI",
+    "text": "Anatomical connectivity mapping with diffusion-weighted MRI\n\n\n\n\nLook at how MRI signal varies across directions of molecular motion\nSince white matter constrains the motion of water molecules, we can infer orientation of white matter in each voxel\nThen traverse voxel-to-voxel to estimate pathways\n\n\n\n\n\n\nwhole-brain diffusion tractography (HCP MGH Connectom data)\n\n\n\n\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#how-are-the-auditory-structures-connected-anatomically",
+    "href": "talk.html#how-are-the-auditory-structures-connected-anatomically",
+    "title": "Imaging the human auditory system",
+    "section": "How are the auditory structures connected anatomically?",
+    "text": "How are the auditory structures connected anatomically?\n\n\n\n\n\n\n\n\nPost mortem\n\n\n\n\n\n\n\n\n\n\nIn vivo\n\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife); Sitek et al. (2022 Frontiers Neuro)"
+  },
+  {
+    "objectID": "talk.html#how-are-the-auditory-structures-connected-functionally",
+    "href": "talk.html#how-are-the-auditory-structures-connected-functionally",
+    "title": "Imaging the human auditory system",
+    "section": "How are the auditory structures connected functionally?",
+    "text": "How are the auditory structures connected functionally?\n\n\n\n\n\n\n\n7T Human Connectome Project (106 participants)\n4 runs of resting state fMRI\n\n1 s x 900 TRs\n2 Anterior–Posterior runs, 2 Posterior–Anterior runs\n\nPartial correlations via novel autoregressive matrix-Gaussian copula graphical model\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nChandra* and Sitek* et al. (2024 Imaging Neuro)"
+  },
+  {
+    "objectID": "talk.html#how-are-the-auditory-structures-connected-functionally-1",
+    "href": "talk.html#how-are-the-auditory-structures-connected-functionally-1",
+    "title": "Imaging the human auditory system",
+    "section": "How are the auditory structures connected functionally?",
+    "text": "How are the auditory structures connected functionally?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nChandra* and Sitek* et al. (2024 Imaging Neuro)"
+  },
+  {
+    "objectID": "talk.html#how-is-the-brainstem-supplied-oxygen",
+    "href": "talk.html#how-is-the-brainstem-supplied-oxygen",
+    "title": "Imaging the human auditory system",
+    "section": "How is the brainstem supplied oxygen?",
+    "text": "How is the brainstem supplied oxygen?\ninsert vasculature figure here\n\n\nSpeaker notes go here.\n\n\nOHBM 2023, 2024, 2025"
+  },
+  {
+    "objectID": "talk.html#but-what-if-we-dont-have-a-7t-mri",
+    "href": "talk.html#but-what-if-we-dont-have-a-7t-mri",
+    "title": "Imaging the human auditory system",
+    "section": "But what if we don’t have a 7T MRI?",
+    "text": "But what if we don’t have a 7T MRI?\nMulti-echo fMRI improves brainstem sensitivity at 3T\n\n\n\nHigh sensitivity across individuals\n\n\n\n\n\n\nHigh reliability within individuals\nImages here\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#human-speech-and-auditory-feedback-processing",
+    "href": "talk.html#human-speech-and-auditory-feedback-processing",
+    "title": "Imaging the human auditory system",
+    "section": "Human speech and auditory feedback processing",
+    "text": "Human speech and auditory feedback processing\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#cortical-feedback-processing-in-animals",
+    "href": "talk.html#cortical-feedback-processing-in-animals",
+    "title": "Imaging the human auditory system",
+    "section": "Cortical feedback processing in animals",
+    "text": "Cortical feedback processing in animals\n\n\nMonkey auditory1\nImages here\n\nMouse auditory–motor2\nImages here\n\n\nSpeaker notes go here.\n\nEliades & Wang (xxxx)Schneider et al. (2014)"
+  },
+  {
+    "objectID": "talk.html#subcortical-feedback-processing-in-animals",
+    "href": "talk.html#subcortical-feedback-processing-in-animals",
+    "title": "Imaging the human auditory system",
+    "section": "Subcortical feedback processing in animals",
+    "text": "Subcortical feedback processing in animals\n\n\nTop-down control\nImages here\n\nMouse licking in DCN1\nImages here\n\n\nSpeaker notes go here.\n\nSingla et al. (2017)"
+  },
+  {
+    "objectID": "talk.html#processing-variability-in-our-own-speech",
+    "href": "talk.html#processing-variability-in-our-own-speech",
+    "title": "Imaging the human auditory system",
+    "section": "Processing variability in our own speech",
+    "text": "Processing variability in our own speech\n\n\n\n\n\n\n\nHoude; Niziolek; Chang;\n\n\nSitek et al. (2013 PLOS ONE)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated",
+    "href": "talk.html#where-are-motor-signals-integrated",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated?",
+    "text": "Where are motor signals integrated?\n\n\nFrequency-following response (FFR) shows the fidelity of incoming sound encoding\nIf integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound\nNo FFR differences, despite cortical response differences\nMotor signals unlikely to attenuate earliest central auditory signals\n\n\n\nSpeaker notes go here.\n\n\nButler, …, Sitek (in prep; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-1",
+    "href": "talk.html#where-are-motor-signals-integrated-1",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated?",
+    "text": "Where are motor signals integrated?\n\n\n\nWe can look at intra-cortical circuits with ultra-high field 7T fMRI\nCortical depth profile differences during self-generated vs. passive sound\nReplicates in the same participant in both 1 mm and 0.8 mm resolution scans\n\n\nput an image here!\n\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
+  },
+  {
+    "objectID": "talk.html#auditory-categorization-in-the-human-brain-1",
+    "href": "talk.html#auditory-categorization-in-the-human-brain-1",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory categorization in the human brain",
+    "text": "Auditory categorization in the human brain\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#pathways-for-auditory-learning-and-categorization",
+    "href": "talk.html#pathways-for-auditory-learning-and-categorization",
+    "title": "Imaging the human auditory system",
+    "section": "Pathways for auditory learning and categorization",
+    "text": "Pathways for auditory learning and categorization\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (2022 preprint); Sitek et al. (submitted)"
+  },
+  {
+    "objectID": "talk.html#auditory-categorization-in-the-human-brain-2",
+    "href": "talk.html#auditory-categorization-in-the-human-brain-2",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory categorization in the human brain",
+    "text": "Auditory categorization in the human brain\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#auditory-categorization-in-the-human-brain-3",
+    "href": "talk.html#auditory-categorization-in-the-human-brain-3",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory categorization in the human brain",
+    "text": "Auditory categorization in the human brain\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#finger-representation-in-the-human-brain",
+    "href": "talk.html#finger-representation-in-the-human-brain",
+    "title": "Imaging the human auditory system",
+    "section": "Finger representation in the human brain",
+    "text": "Finger representation in the human brain\n\n\n\n\n\n\n\n\n\n\n\n\n\nPosterior mean dominance greater than 25% across voxels for the right index (red), left index (blue), and middle fingers (green).\n\n\n\nMoya et al. Results for the fingertip mapping study:\nFingertip dominance across the investigated regions. Posterior mean dominance greater than \\(25\\%\\) is shown across voxels for the right index finger (red), left index (blue), and middle fingers (green) based on the estimated partition structures and the estimated effect intensities.\nColors blend when two or more fingers exhibit greater than \\(25\\%\\) dominance probabilities at the same location, showing areas of competing dominance for the right index and either middle finger (yellow), left index and either middle finger (cyan), and the two index fingers (purple).\n\n\nMoya et al. (in prep.)"
+  },
+  {
+    "objectID": "talk.html#the-developing-auditory-system",
+    "href": "talk.html#the-developing-auditory-system",
+    "title": "Imaging the human auditory system",
+    "section": "The developing auditory system",
+    "text": "The developing auditory system\nHow do we learn to hear in noisy environments?\n\nAdults: maturation of speech network + compensatory networks\nChildren: fine-tuning speech network + undeveloped frontal networks\n\n\n\nSSP\n\n\nSitek et al. (in prep.; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#the-developing-auditory-system-1",
+    "href": "talk.html#the-developing-auditory-system-1",
+    "title": "Imaging the human auditory system",
+    "section": "The developing auditory system",
+    "text": "The developing auditory system\nSpeech-in-quiet vs. baseline\n\n\n\n\n\n\n\nSSP\n\n\nSitek et al. (in prep.; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#the-developing-auditory-system-2",
+    "href": "talk.html#the-developing-auditory-system-2",
+    "title": "Imaging the human auditory system",
+    "section": "The developing auditory system",
+    "text": "The developing auditory system\nSpeech-in-quiet vs. -6 dB SNR\n\n\n\n\n\n\n\nSSP\n\n\nSitek et al. (in prep.; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#science-is-not-a-silo",
+    "href": "talk.html#science-is-not-a-silo",
+    "title": "Imaging the human auditory system",
+    "section": "Science is not a silo",
+    "text": "Science is not a silo\n\n\nCommunicating our science:\n\nbuilds community\nstrengthens impact\nincreases resilience\n\n\nput an image here!\n\n\n\nSitek et al. (2025 Aperture Neuro); Wearn, Sitek, et al. (2025 Aperture Neuro)\n\n\nSitek et al. (2025 Aperture Neuro); Wearn, Sitek, et al. (2025 Aperture Neuro)"
+  },
+  {
+    "objectID": "talk.html#non-invasively-investigating-the-human-auditory-brainstem",
+    "href": "talk.html#non-invasively-investigating-the-human-auditory-brainstem",
+    "title": "Imaging the human auditory system",
+    "section": "Non-invasively investigating the human auditory brainstem",
+    "text": "Non-invasively investigating the human auditory brainstem\n\nMapping the human subcortical auditory system\nAuditory–motor interactions across the auditory pathway\nAuditory categorization in the human brain\nCommunication in practice: Sharing our science\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#acknowledgments",
+    "href": "talk.html#acknowledgments",
+    "title": "Imaging the human auditory system",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\n\nSoundBrain Lab\nespecially:\n\nBharath Chandrasekaran\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\nJacie McHaney\nKailyn McFarlane\n\n\n\n\nFFR Workshop 2024\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nFunding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#future-directions-hearing-loss",
+    "href": "talk.html#future-directions-hearing-loss",
+    "title": "Imaging the human auditory system",
+    "section": "Future directions: Hearing loss",
+    "text": "Future directions: Hearing loss\n\n\nSpeech-in-noise difficulties in middle age\nput an image here!\n\nNeural predictors of cochlear implant success\nput an image here!"
+  },
+  {
+    "objectID": "talk.html#future-directions-analysis-methods",
+    "href": "talk.html#future-directions-analysis-methods",
+    "title": "Imaging the human auditory system",
+    "section": "Future directions: Analysis methods",
+    "text": "Future directions: Analysis methods\n\n\nffrprep\nput an image here!\n\nEx 2\nput an image here!"
   }
 ]

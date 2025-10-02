@@ -3,10 +3,10 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Template talk"
+  title: "Imaging the human auditory system"
   navbar:
     left:
-      - href: https://github.com/poldrack/talks-template
+      - href: http://sitek.github.io/talk-auditory-imaging
         text: Github page
 
 format:
