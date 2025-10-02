@@ -1,5 +1,5 @@
 # This tag should match the release tag in Github
-TAG = "Topic_Venue_month_day_year"
+TAG = "AuditoryImaging_UTSW_10_02_2025"
 
 all: render-talk push-talk render-site push-site
 
