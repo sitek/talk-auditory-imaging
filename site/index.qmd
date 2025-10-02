@@ -29,7 +29,7 @@ repo_name = repo_obj.remotes.origin.url.split(':')[1].split('.')[0]
 
 ## use github api to find releases
 # Github username
-username = "poldrack"
+username = "sitek"
 # pygithub object
 
 token_file = os.path.join(repo_obj.working_dir, '.token')
@@ -46,7 +46,7 @@ if os.path.exists(token_file):
     repo_info = g.get_repo(repo_name)
     releases = list(repo_info.get_releases())
 
-    site_base = 'https://poldrack.github.io/' + repo_name.split('/')[-1]
+    site_base = 'https://sitek.github.io/' + repo_name.split('/')[-1]
 
     for release in releases:
         release_date = release.published_at.strftime('%D')
