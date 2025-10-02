@@ -1,13 +1,18 @@
 ---
-title: "Talk template" 
-author: Russ Poldrack
-institute: Stanford University
+title: "Imaging the human auditory system" 
+subtitle: "Neuroanatomy, categorization, and motor feedback processing"
+author: "Kevin R. Sitek, Ph.D."
+institute: Northwestern University
+date: October 6, 2025
+
 title-slide-attributes:
-    data-background-image: ./images/stanford_background.jpg
-    data-background-opacity: "0.5"
+    data-background-image: /images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png
+    data-background-size: contain
+    data-background-opacity: "0.25"
+
 format:
   revealjs: 
-    footer: "https://poldrack.github.io/talks-template/"
+    footer: "http://sitek.github.io/talk-auditory-imaging"
     slide-number: true
     chalkboard: 
       buttons: false
@@ -17,4 +22,5 @@ format:
     width: 1920
 ---
 
-## Template slide
+
+# Talk
