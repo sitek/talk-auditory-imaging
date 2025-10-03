@@ -4,14 +4,14 @@
     "href": "talk.html#whats-special-about-the-auditory-system",
     "title": "Imaging the human auditory system",
     "section": "What’s special about the auditory system?",
-    "text": "What’s special about the auditory system?\n\n\n\n\n\n\nKaas & Hackett (2000)\n\n\n\n\n\n\n\nVan Essen et al. (1992)\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "What’s special about the auditory system?\n\n\n\n\n\n\n\nKaas & Hackett (2000)\n\n\n\n\n\n\n\n\n\nVan Essen et al. (1992)\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#the-human-subcortical-auditory-system",
     "href": "talk.html#the-human-subcortical-auditory-system",
     "title": "Imaging the human auditory system",
     "section": "The human subcortical auditory system",
-    "text": "The human subcortical auditory system\n\n\n\n\n\n\n\n\n\n\n\nAcross human behaviors, studying the brainstem is challenging. - In vivo MRI limited by: - high resolution needed for small structures - decreased signal as voxels get smaller - decreased signal in brainstem - Limited spatial information from EEG, MEG - Some human histology studies (nuclei) - Tracer studies (connections) only in animal models"
+    "text": "The human subcortical auditory system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcross human behaviors, studying the brainstem is challenging. - In vivo MRI limited by: - high resolution needed for small structures - decreased signal as voxels get smaller - decreased signal in brainstem - Limited spatial information from EEG, MEG - Some human histology studies (nuclei) - Tracer studies (connections) only in animal models"
   },
   {
     "objectID": "talk.html#imaging-the-human-subcortical-auditory-system",
@@ -74,7 +74,7 @@
     "href": "talk.html#anatomical-connectivity-mapping-with-diffusion-weighted-mri",
     "title": "Imaging the human auditory system",
     "section": "Anatomical connectivity mapping with diffusion-weighted MRI",
-    "text": "Anatomical connectivity mapping with diffusion-weighted MRI\n\n\n\n\nLook at how MRI signal varies across directions of molecular motion\nSince white matter constrains the motion of water molecules, we can infer orientation of white matter in each voxel\nThen traverse voxel-to-voxel to estimate pathways\n\n\n\n\n\n\nwhole-brain diffusion tractography (HCP MGH Connectom data)\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "Anatomical connectivity mapping with diffusion-weighted MRI\n\n\n\n\nLook at how MRI signal varies across directions of molecular motion\nSince white matter constrains the motion of water molecules, we can infer orientation of white matter in each voxel\nThen traverse voxel-to-voxel to estimate pathways (tractography)\n\n\n\n\n\n\nwhole-brain diffusion tractography (HCP MGH Connectom data)\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#how-are-the-auditory-structures-connected-anatomically",
@@ -165,21 +165,21 @@
     "href": "talk.html#auditory-categorization-in-the-human-brain-1",
     "title": "Imaging the human auditory system",
     "section": "Auditory categorization in the human brain",
-    "text": "Auditory categorization in the human brain\n\nSpeaker notes go here."
+    "text": "Auditory categorization in the human brain\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (submitted)"
   },
   {
     "objectID": "talk.html#pathways-for-auditory-learning-and-categorization",
     "href": "talk.html#pathways-for-auditory-learning-and-categorization",
     "title": "Imaging the human auditory system",
     "section": "Pathways for auditory learning and categorization",
-    "text": "Pathways for auditory learning and categorization\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (2022 preprint); Sitek et al. (submitted)"
+    "text": "Pathways for auditory learning and categorization\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (2022 preprint); Sitek et al. (submitted)"
   },
   {
     "objectID": "talk.html#auditory-categorization-in-the-human-brain-2",
     "href": "talk.html#auditory-categorization-in-the-human-brain-2",
     "title": "Imaging the human auditory system",
     "section": "Auditory categorization in the human brain",
-    "text": "Auditory categorization in the human brain\n\nSpeaker notes go here."
+    "text": "Auditory categorization in the human brain\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (submitted)"
   },
   {
     "objectID": "talk.html#auditory-categorization-in-the-human-brain-3",
@@ -250,5 +250,68 @@
     "title": "Imaging the human auditory system",
     "section": "Future directions: Analysis methods",
     "text": "Future directions: Analysis methods\n\n\nffrprep\nput an image here!\n\nEx 2\nput an image here!"
+  },
+  {
+    "objectID": "talk.html#auditory-categorization-in-the-human-brain-4",
+    "href": "talk.html#auditory-categorization-in-the-human-brain-4",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory categorization in the human brain",
+    "text": "Auditory categorization in the human brain\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-subcortically",
+    "href": "talk.html#where-are-motor-signals-integrated-subcortically",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated? Subcortically?",
+    "text": "Where are motor signals integrated? Subcortically?\n\n\n\n\nFrequency-following response (FFR) shows the fidelity of incoming sound encoding\nIf integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound\nCollected FFR from 33 normal-hearing adults in active (button-press + sound) and passive (sound only) conditions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound\n\n\nButler, …, Sitek (in prep; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-subcortically-1",
+    "href": "talk.html#where-are-motor-signals-integrated-subcortically-1",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated? Subcortically?",
+    "text": "Where are motor signals integrated? Subcortically?\n\nEEG waveforms\n\n\nBrainstem frequency-following response\n\n\nCortical evoked response\n\n\n\n\nIf integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound\n\n\nButler, …, Sitek (in prep; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex",
+    "href": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated in auditory cortex?",
+    "text": "Where are motor signals integrated in auditory cortex?\n\nPrevious literature implicates auditory cortex as a hub for auditory–motor integration\nBut fMRI has shown increased BOLD to self-generated sounds, vs. suppressed M/EEG responses1\nAre different laminar responses the explanation?\nWe can look at intra-cortical circuits with ultra-high field 7T fMRI\n\nDepth-dependent BOLD fMRI acquisition\n7 participants: 1 mm isotropic voxels, TE = 22.8 ms, MB = 6\n1 replication: 0.8 mm isotropic voxels, TE = 21.4, MB = 4\nCortical depth profile differences during self-generated vs. passive sound\n\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)\nReznik et al. (2014)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-subcortically-2",
+    "href": "talk.html#where-are-motor-signals-integrated-subcortically-2",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated? Subcortically?",
+    "text": "Where are motor signals integrated? Subcortically?\n\nEEG spectrograms\n\n\nBrainstem frequency-following response\n\n\nCortical evoked response\n\n\n\n\nIf integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound\n\n\nButler, …, Sitek (in prep; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-subcortically-3",
+    "href": "talk.html#where-are-motor-signals-integrated-subcortically-3",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated? Subcortically?",
+    "text": "Where are motor signals integrated? Subcortically?\n\nBrainstem frequency-following response (FFR) shows the same sound encoding when a sound is self-generated or passively presented\n\nIf integration is subcortical, would expect to see brainstem FFR differences between self-generated vs. passive sound\nNo brainstem FFR differences, despite cortical evoked response differences\nMotor signals unlikely to attenuate earliest central auditory signals\nNext steps: Source localization of FFR generators (ECR R21 project)\n\n\n\nIf integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound\n\n\nButler, …, Sitek (in prep; SNL 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex-1",
+    "href": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex-1",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated in auditory cortex?",
+    "text": "Where are motor signals integrated in auditory cortex?\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex-2",
+    "href": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex-2",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated in auditory cortex?",
+    "text": "Where are motor signals integrated in auditory cortex?\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
+  },
+  {
+    "objectID": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex-3",
+    "href": "talk.html#where-are-motor-signals-integrated-in-auditory-cortex-3",
+    "title": "Imaging the human auditory system",
+    "section": "Where are motor signals integrated in auditory cortex?",
+    "text": "Where are motor signals integrated in auditory cortex?\n\n\n\nIncreased BOLD in self-generated vs. active condition\nHigher increases at superficial cortical depths, suggesting increased corticocortical feedback\nHelps explain increased BOLD in previous studies\nSame cortical depth effects in two acquisitions in the same participant\n\n\n \n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
   }
 ]
