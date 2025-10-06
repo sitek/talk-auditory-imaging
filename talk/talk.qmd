@@ -498,13 +498,13 @@ Houde; Niziolek; Chang;
 ::: {.column .fragment}
 #### Mouse ACtx excitatory neurons inhibited, inhibitory neurons excited during movement^[Schneider et al. (2014)]
 
-![](images/Schneider2014.png){height="800" fig-align="center"}
+![](images/Schneider2015_Fig2.png){fig-align="center"}
 :::
 
 ::::
 
 ::: {.notes}
-Speaker notes go here.
+a, An example neuron’s response to a preferred tone during rest (black) and movement (mvmt; red). b, The voltage area response of multiple neurons to preferred tone stimulus during rest versus movement (n = 27, P < 0.001, paired t-test). c, Schematic showing viral infection of AAV-ChR2 into medial geniculate body (MGB) and optogenetic activation of ChR2+ axon terminals in the auditory cortex. d, Responses of an example neuron to optogenetic stimulation of thalamocortical terminals during rest (black) and movement (red). Blue bar indicates duration of light stimulation.
 :::
 
 ## *Sub*cortical feedback processing in animals
