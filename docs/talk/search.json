@@ -221,21 +221,21 @@
     "href": "talk.html#how-do-humans-learn-new-sensory-categories",
     "title": "Imaging the human auditory system",
     "section": "How do humans learn new sensory categories?",
-    "text": "How do humans learn new sensory categories?\n\n7 Tesla high resolution functional MRI (1.5 mm isotropic vixels)\n12 non-Mandarin-speaking participants (18–30 years old)\nAuditory category learning task with Mandarin tone stimuli1\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (submitted)\nYi et al., 2016; Reetzke et al., 2018; Feng et al., 2019; …"
+    "text": "How do humans learn new sensory categories?\n\n\n\n\n\n\n7 Tesla high resolution functional MRI (1.5 mm isotropic vixels)\n12 non-Mandarin-speaking participants (18–30 years old)\nAuditory category learning task with Mandarin tone stimuli1\n\n\n\nSpeaker notes go here.\n\n\n\nYi et al., 2016; Reetzke et al., 2018; Feng et al., 2019; …"
   },
   {
     "objectID": "talk.html#successful-learning-of-new-auditory-categories-in-mri",
     "href": "talk.html#successful-learning-of-new-auditory-categories-in-mri",
     "title": "Imaging the human auditory system",
     "section": "Successful learning of new auditory categories in MRI",
-    "text": "Successful learning of new auditory categories in MRI\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (submitted)"
+    "text": "Successful learning of new auditory categories in MRI\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#auditory-categorization-in-the-human-brain-1",
     "href": "talk.html#auditory-categorization-in-the-human-brain-1",
     "title": "Imaging the human auditory system",
     "section": "Auditory categorization in the human brain",
-    "text": "Auditory categorization in the human brain\n\n\n\n\n\n\n\nAuditory cortical responses to sound\n\n\n\n\n\n\n\n\n\nStriatal responses to sound\n\n\n\n\n\n\n\n\n\nStriatal responses to positive feedback\n\n\n\n\n\n\n\n\nSound responses: everything significant except for PUT-VP and ParsTri\n\n\nSitek et al. (submitted)"
+    "text": "Auditory categorization in the human brain\n\nLearning a new auditory category broadly activates striatum and auditory cortex\nBoth striatum and cortex develop representations of task-relevant categories\nWhen presented with feedback:\n\nAnterior caudate responds highest early on\nAnterior putamen responds across learning stages\n\nWe can use 7T fMRI to understand fine-grained striatal activity\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#finger-motor-representation-in-the-human-brain",
@@ -249,7 +249,7 @@
     "href": "talk.html#auditory-categorization-in-the-human-brain-2",
     "title": "Imaging the human auditory system",
     "section": "Auditory categorization in the human brain",
-    "text": "Auditory categorization in the human brain\n\nLearning a new auditory categorization broadly activates striatum\nFeedback:\n\nAnterior caudate responds highest early on\nAnterior putamen responds across learning stages\n\nWe can use 7T fMRI to understand fine-grained striatal activity\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (submitted)"
+    "text": "Auditory categorization in the human brain\n\nLearning a new auditory categorization broadly activates striatum\nFeedback:\n\nAnterior caudate responds highest early on\nAnterior putamen responds across learning stages\n\nWe can use 7T fMRI to understand fine-grained striatal activity\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#the-developing-auditory-system",
@@ -313,5 +313,124 @@
     "title": "Imaging the human auditory system",
     "section": "Science is not a silo",
     "text": "Science is not a silo\n\n\nCommunicating our science:\n\nbuilds community\nstrengthens impact\nincreases resilience\n\n\nput an image here!\n\n\n\nSitek et al. (2025 Aperture Neuro); Wearn, Sitek, et al. (2025 Aperture Neuro)\n\n\n\n\nSitek et al. (2025 Aperture Neuro); Wearn, Sitek, et al. (2025 Aperture Neuro)"
+  },
+  {
+    "objectID": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri",
+    "href": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri",
+    "title": "Imaging the human auditory system",
+    "section": "Improving brainstem sensitivity at 3T with multi-echo fMRI",
+    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\n\n\n\n\nHow can we facilitate auditory pathway imaging?\n\nMost research scanners are 3T, not 7T\nPrevious auditory brainstem mapping at 3T used compromised approaches\n\n\n\nMulti-echo fMRI improves subcortical (and cortical!) fMRI sensitivity\n\nTypical fMRI uses one readout (“echo”)\nBut optimal echo time (TE) isn’t consistent across the brain\nMulti-echo fMRI allows optimal combination of different TEs across the brain\nAlso enables ICA noise removal across echoes (tedana)\n\n\n\n\n\n\n\nChandana Kodiweera, Ph.D. - Dartmouth BIC\n\n\n\n\n\n\n\nKundu et al. (2017)\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#multi-echo-fmri-improves-group-level-brainstem-sensitivity-at-3t",
+    "href": "talk.html#multi-echo-fmri-improves-group-level-brainstem-sensitivity-at-3t",
+    "title": "Imaging the human auditory system",
+    "section": "Multi-echo fMRI improves group-level brainstem sensitivity at 3T",
+    "text": "Multi-echo fMRI improves group-level brainstem sensitivity at 3T\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#improved-within-participant-precision-mapping-with-multi-echo-fmri",
+    "href": "talk.html#improved-within-participant-precision-mapping-with-multi-echo-fmri",
+    "title": "Imaging the human auditory system",
+    "section": "Improved within-participant precision-mapping with multi-echo fMRI",
+    "text": "Improved within-participant precision-mapping with multi-echo fMRI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#multi-echo-fmri-improves-group-level-sensitivity-at-3t",
+    "href": "talk.html#multi-echo-fmri-improves-group-level-sensitivity-at-3t",
+    "title": "Imaging the human auditory system",
+    "section": "Multi-echo fMRI improves group-level sensitivity at 3T",
+    "text": "Multi-echo fMRI improves group-level sensitivity at 3T\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#improved-precision-mapping-with-multi-echo-fmri",
+    "href": "talk.html#improved-precision-mapping-with-multi-echo-fmri",
+    "title": "Imaging the human auditory system",
+    "section": "Improved precision mapping with multi-echo fMRI",
+    "text": "Improved precision mapping with multi-echo fMRI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-1",
+    "href": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-1",
+    "title": "Imaging the human auditory system",
+    "section": "Improving brainstem sensitivity at 3T with multi-echo fMRI",
+    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\n\n\n\nListening task in 3T fMRI\n\n\n14 participants\n10 minutes of pop-song listening\n3 participants returned for precision-mapping session\n\n\n\n\nMulti-echo fMRI acquisition from UMinn CMRR\n\nEcho times = 13.40/39.5/65.6 ms\nWhole-brain coverage with voxel size = 1.731×1.731×4 mm3\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-2",
+    "href": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-2",
+    "title": "Imaging the human auditory system",
+    "section": "Improving brainstem sensitivity at 3T with multi-echo fMRI",
+    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\nFuture applications: Auditory processing across the lifespan\n\n\nAuditory processing changes throughout adulthood\n\nHow does speech-in-noise processing change in middle age and beyond?\nWhat neural patterns predict later cochlear implant success?\n\n\nSpeech processing in the developing brain\n\nHow do children make auditory category decisions, and how are they affected by noise?\nWhat compensatory neural pathways are available to children with developmental communication differences?\n\n\n\n\n\n\nMoser et al. (2025)\n\n\n\n\nMoser et al. (2025): https://doi.org/10.1162/imag_a_00426"
+  },
+  {
+    "objectID": "talk.html#auditory-processing-changes-throughout-adulthood",
+    "href": "talk.html#auditory-processing-changes-throughout-adulthood",
+    "title": "Imaging the human auditory system",
+    "section": "#### Auditory processing changes throughout adulthood",
+    "text": "#### Auditory processing changes throughout adulthood"
+  },
+  {
+    "objectID": "talk.html#speech-processing-in-the-developing-brain",
+    "href": "talk.html#speech-processing-in-the-developing-brain",
+    "title": "Imaging the human auditory system",
+    "section": "#### Speech processing in the developing brain",
+    "text": "#### Speech processing in the developing brain"
+  },
+  {
+    "objectID": "talk.html#multi-echo-fmri-improves-group-level-sensitivity-at-3t-1",
+    "href": "talk.html#multi-echo-fmri-improves-group-level-sensitivity-at-3t-1",
+    "title": "Imaging the human auditory system",
+    "section": "Multi-echo fMRI improves group-level sensitivity at 3T",
+    "text": "Multi-echo fMRI improves group-level sensitivity at 3T\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+  },
+  {
+    "objectID": "talk.html#auditory-categorization-in-the-human-brain-3",
+    "href": "talk.html#auditory-categorization-in-the-human-brain-3",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory categorization in the human brain",
+    "text": "Auditory categorization in the human brain\n\nLearning a new auditory categorization broadly activates striatum\nFeedback:\n\nAnterior caudate responds highest early on\nAnterior putamen responds across learning stages\n\nWe can use 7T fMRI to understand fine-grained striatal activity\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in revision)"
+  },
+  {
+    "objectID": "talk.html#auditory-fmri-responses-to-sound-presentation",
+    "href": "talk.html#auditory-fmri-responses-to-sound-presentation",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory fMRI responses to sound presentation",
+    "text": "Auditory fMRI responses to sound presentation\n\n\n\n\n\n\n\nCortical sound responses\n\n\n\n\n\n\n\n\n\nStriatal sound responses\n\n\n\n\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+  },
+  {
+    "objectID": "talk.html#representations-of-auditory-categories",
+    "href": "talk.html#representations-of-auditory-categories",
+    "title": "Imaging the human auditory system",
+    "section": "Representations of auditory categories",
+    "text": "Representations of auditory categories\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+  },
+  {
+    "objectID": "talk.html#representational-similarity-analysis-rsa-of-auditory-categories",
+    "href": "talk.html#representational-similarity-analysis-rsa-of-auditory-categories",
+    "title": "Imaging the human auditory system",
+    "section": "Representational similarity analysis (RSA) of auditory categories",
+    "text": "Representational similarity analysis (RSA) of auditory categories\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriatum RSA\n\nStronger Tone than Talker representation overall\nNo significant difference between subdivisions\n\nCortical RSA\n\nStronger Tone than Talker representation overall and for each region\nSignificantly stronger Tone representation in STGp vs. HG or PT\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+  },
+  {
+    "objectID": "talk.html#fmri-responses-to-feedback-correct-vs.-wrong",
+    "href": "talk.html#fmri-responses-to-feedback-correct-vs.-wrong",
+    "title": "Imaging the human auditory system",
+    "section": "fMRI responses to feedback (“correct” vs. “wrong”)",
+    "text": "fMRI responses to feedback (“correct” vs. “wrong”)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriatum feedback responses\n\nStronger responses overall in early vs. final learning stages (runs)\nAll regions showed positive responses in early learning stage\nOnly anterior putamen maintained positive responses across all runs\nOnly anterior caudate significantly decreased responses from early to final learning stages\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+  },
+  {
+    "objectID": "talk.html#auditory-striatal-pathways-for-learning-and-categorization",
+    "href": "talk.html#auditory-striatal-pathways-for-learning-and-categorization",
+    "title": "Imaging the human auditory system",
+    "section": "Auditory-striatal pathways for learning and categorization",
+    "text": "Auditory-striatal pathways for learning and categorization\n\n\n\n\n\n\n\nMacaque1\n\n\n\n\n\n\n\n\n\nHuman2\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\n\nYeterian & Pandya (1997)Sitek et al. (2022 preprint); Sitek et al. (submitted)"
+  },
+  {
+    "objectID": "talk.html#how-do-we-learn-new-sensory-categories",
+    "href": "talk.html#how-do-we-learn-new-sensory-categories",
+    "title": "Imaging the human auditory system",
+    "section": "How do we learn new sensory categories?",
+    "text": "How do we learn new sensory categories?\n\n\n\n\nDorsal striatum contribute to learning new categories thanks to:\n\nits many-to-one projections from distributed cortical networks that subserve motor planning, feedback processing, and decision-making\nits role in task-relevant sensory processing (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)\n\nPrior work in humans shows consistent dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)\nLittle is known about the anatomical pathways that connect the human auditory system to the striatum\nHow do subdivisions of dorsal striatum contribute to category learning?\n\n\n\n\n\n\nLim et al., 2014\n\n\n\n\n\n\n\nSpeaker notes go here."
   }
 ]

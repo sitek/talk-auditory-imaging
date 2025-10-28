@@ -776,34 +776,65 @@ Kevin R. Sitek, Ph.D.
       }</style></aside>
 <aside><div>
 <p>OHBM 2023, 2024, 2025</p>
-</div></aside></section>
-<section id="but-what-if-we-dont-have-a-7t-mri" class="slide level2">
-<h2>But what if we don’t have a 7T MRI?</h2>
-<h3 id="multi-echo-fmri-improves-brainstem-sensitivity-at-3t">Multi-echo fMRI improves brainstem sensitivity at 3T</h3>
+</div></aside></section></section>
+<section>
+<section id="but-what-if-we-dont-have-a-7t-mri" class="title-slide slide level1 center">
+<h1>But what if we don’t have a 7T MRI?</h1>
+
+</section>
+<section id="improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri" class="slide level2">
+<h2>Improving brainstem sensitivity at 3T with multi-echo fMRI</h2>
 <p><img data-src="images/people/MichelleMedina.jpeg" class="absolute" style="bottom: 10px; right: 10px; width: 200px; height: 200px; "></p>
 <div class="columns">
-<div class="column fragment">
+<div class="column">
+<div class="fragment">
+<h4 id="how-can-we-facilitate-auditory-pathway-imaging">How can we facilitate auditory pathway imaging?</h4>
+<ul>
+<li>Most research scanners are 3T, not 7T</li>
+<li>Previous auditory brainstem mapping at 3T used compromised approaches</li>
+</ul>
+</div>
+<div class="fragment">
+<h4 id="multi-echo-fmri-improves-subcortical-and-cortical-fmri-sensitivity">Multi-echo fMRI improves subcortical (and cortical!) fMRI sensitivity</h4>
+<ul>
+<li>Typical fMRI uses one readout (“echo”)</li>
+<li>But optimal echo time (TE) isn’t consistent across the brain</li>
+<li>Multi-echo fMRI allows <em>optimal combination</em> of different TEs across the brain</li>
+<li>Also enables ICA noise removal across echoes (<code>tedana</code>)</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/multiecho-vs-singleecho.png"></p>
+<figcaption>Chandana Kodiweera, Ph.D.&nbsp;- Dartmouth BIC</figcaption>
+</figure>
+</div>
+</div>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/physics_kundu_2017_multiple_echoes_3T-only.png" height="200"></p>
+<figcaption>Kundu et al.&nbsp;(2017)</figcaption>
+</figure>
+</div>
+</div>
+</div></div>
+
+<aside class="notes">
+<p>So far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.</p>
 <ul>
 <li>Multi-echo fMRI acquisition
 <ul>
 <li>Echo times = 13.40/39.5/65.6 ms</li>
 <li>Repetition time = 2.2 s</li>
 <li>Multiband factor = 2</li>
-<li>Voxel size = 1.731×1.731×4 mm^3</li>
+<li>Voxel size = 1.731×1.731×4 mm<sup>3</sup></li>
 <li>Whole-brain coverage (44 slices, FOV=180mm)</li>
 </ul></li>
 <li>Multi-echo optimal combination + ICA noise removal (<code>tedana</code>)</li>
 </ul>
-</div><div class="column fragment">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/Medina2025/Medina_task.png" class="quarto-figure quarto-figure-center" height="600"></p>
-</figure>
-</div>
-</div></div>
-
-<aside class="notes">
-<p>So far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -818,36 +849,50 @@ Kevin R. Sitek, Ph.D.
 <aside><div>
 <p>Medina et al.&nbsp;(in prep.; ISMRM 2025)</p>
 </div></aside></section>
-<section id="but-what-if-we-dont-have-a-7t-mri-1" class="slide level2">
-<h2>But what if we don’t have a 7T MRI?</h2>
-<h3 id="multi-echo-fmri-improves-brainstem-sensitivity-at-3t-1">Multi-echo fMRI improves brainstem sensitivity at 3T</h3>
+<section id="improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-1" class="slide level2">
+<h2>Improving brainstem sensitivity at 3T with multi-echo fMRI</h2>
 <p><img data-src="images/people/MichelleMedina.jpeg" class="absolute" style="bottom: 10px; right: 10px; width: 200px; height: 200px; "></p>
 <div class="columns">
-<div class="column fragment">
-<p>High sensitivity across individuals</p>
-<div class="r-stack">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/Medina2025/Medina_cortex.png" class="fragment quarto-figure quarto-figure-center" height="600"></p>
-</figure>
+<div class="column">
+<h3 id="listening-task-in-3t-fmri">Listening task in 3T fMRI</h3>
+<div class="fragment">
+<ul>
+<li>14 participants</li>
+<li>10 minutes of pop-song listening</li>
+<li>3 participants returned for precision-mapping session</li>
+</ul>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/Medina2025/Medina_overview.png" class="fragment quarto-figure quarto-figure-center" height="700"></p>
-</figure>
-</div>
+<div class="fragment">
+<ul>
+<li>Multi-echo fMRI acquisition from UMinn CMRR
+<ul>
+<li>Echo times = 13.40/39.5/65.6 ms</li>
+<li>Whole-brain coverage with voxel size = 1.731×1.731×4 mm<sup>3</sup></li>
+</ul></li>
+<li>Multi-echo optimal combination + ICA noise removal (<code>tedana</code>)</li>
+</ul>
 </div>
 </div><div class="column fragment">
-<p>High reliability within individuals</p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/Medina2025/Medina_sub-01.png" class="quarto-figure quarto-figure-center" height="600"></p>
+<p><img data-src="images/Medina2025/Medina_task.png" class="quarto-figure quarto-figure-center" height="700"></p>
 </figure>
 </div>
 </div></div>
 
 <aside class="notes">
 <p>So far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.</p>
+<ul>
+<li>Multi-echo fMRI acquisition
+<ul>
+<li>Echo times = 13.40/39.5/65.6 ms</li>
+<li>Repetition time = 2.2 s</li>
+<li>Multiband factor = 2</li>
+<li>Voxel size = 1.731×1.731×4 mm<sup>3</sup></li>
+<li>Whole-brain coverage (44 slices, FOV=180mm)</li>
+</ul></li>
+<li>Multi-echo optimal combination + ICA noise removal (<code>tedana</code>)</li>
+</ul>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -861,7 +906,106 @@ Kevin R. Sitek, Ph.D.
       }</style></aside>
 <aside><div>
 <p>Medina et al.&nbsp;(in prep.; ISMRM 2025)</p>
-</div></aside></section></section>
+</div></aside></section>
+<section id="multi-echo-fmri-improves-group-level-sensitivity-at-3t" class="slide level2">
+<h2>Multi-echo fMRI improves group-level sensitivity at 3T</h2>
+<p><img data-src="images/people/MichelleMedina.jpeg" class="absolute" style="bottom: 10px; right: 10px; width: 200px; height: 200px; "></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Medina2025/Medina_Figure1.png" class="fragment quarto-figure quarto-figure-center" height="900"></p>
+</figure>
+</div>
+
+<aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<aside><div>
+<p>Medina et al.&nbsp;(in prep.; ISMRM 2025)</p>
+</div></aside></section>
+
+<section id="improved-precision-mapping-with-multi-echo-fmri" class="slide level2">
+<h2>Improved precision mapping with multi-echo fMRI</h2>
+<p><img data-src="images/people/MichelleMedina.jpeg" class="absolute" style="bottom: 10px; right: 10px; width: 200px; height: 200px; "></p>
+<div class="columns">
+<div class="column fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Medina2025/Medina_Figure4b.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Medina2025/Medina_Figure4a.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+
+<aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<aside><div>
+<p>Medina et al.&nbsp;(in prep.; ISMRM 2025)</p>
+</div></aside></section>
+<section id="improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-2" class="slide level2">
+<h2>Improving brainstem sensitivity at 3T with multi-echo fMRI</h2>
+<h3 id="future-applications-auditory-processing-across-the-lifespan">Future applications: Auditory processing across the lifespan</h3>
+<div class="columns">
+<div class="column fragment">
+<h4 id="auditory-processing-changes-throughout-adulthood">Auditory processing changes throughout adulthood</h4>
+<ul>
+<li>How does speech-in-noise processing change in middle age and beyond?</li>
+<li>What neural patterns predict later cochlear implant success?</li>
+</ul>
+<div class="fragment">
+<h4 id="speech-processing-in-the-developing-brain">Speech processing in the developing brain</h4>
+<ul>
+<li>How do children make auditory category decisions, and how are they affected by noise?</li>
+<li>What compensatory neural pathways are available to children with developmental communication differences?</li>
+</ul>
+</div>
+</div><div class="column fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/imag_a_00426_fig4.jpeg" height="800"></p>
+<figcaption>Moser et al.&nbsp;(2025)</figcaption>
+</figure>
+</div>
+</div></div>
+<aside class="notes">
+<p>Moser et al.&nbsp;(2025): https://doi.org/10.1162/imag_a_00426</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
 <section>
 <section id="auditorymotor-interactions-across-the-auditory-pathway" class="title-slide slide level1 center">
 <h1>Auditory–motor interactions across the auditory pathway</h1>
@@ -1226,26 +1370,69 @@ Kevin R. Sitek, Ph.D.
           display:block!important;
       }</style></aside>
 </section>
-<section id="pathways-for-auditory-learning-and-categorization" class="slide level2">
-<h2>Pathways for auditory learning and categorization</h2>
-<div class="quarto-layout-panel" data-layout="[30,70]">
+<section id="how-do-we-learn-new-sensory-categories" class="slide level2">
+<h2>How do we learn new sensory categories?</h2>
+<div class="quarto-layout-panel" data-layout="[70,30]">
 <div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+<ul>
+<li class="fragment">Dorsal striatum contribute to learning new categories thanks to:
+<ul>
+<li class="fragment">its many-to-one projections from <strong>distributed cortical networks</strong> that subserve motor planning, feedback processing, and decision-making</li>
+<li class="fragment">its role in <strong>task-relevant sensory processing</strong> (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)</li>
+</ul></li>
+<li class="fragment">Prior work in humans shows consistent dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)</li>
+<li class="fragment">Little is known about the anatomical pathways that connect the human auditory system to the striatum</li>
+<li class="fragment">How do <em>subdivisions</em> of dorsal striatum contribute to category learning?</li>
+</ul>
+</div>
 <div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
-<div class="fragment">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/YeterianPandya1997.png" height="600"></p>
-<figcaption>Macaque auditory-striatal connections<sup>1</sup></figcaption>
+<p><img data-src="images/Lim_striatum-schematic.jpg"></p>
+<figcaption>Lim et al., 2014</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+</div>
+
+<aside class="notes">
+<p>Speaker notes go here.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<aside><div>
+
+</div></aside></section>
+<section id="auditory-striatal-pathways-for-learning-and-categorization" class="slide level2">
+<h2>Auditory-striatal pathways for learning and categorization</h2>
+<div class="quarto-layout-panel" data-layout="[25,75]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
 <div class="fragment">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/Sitek_corticostriatal_endpoints.png" height="600"></p>
-<figcaption>Human auditory–striatal connections<sup>2</sup></figcaption>
+<p><img data-src="images/YeterianPandya1997.png" height="600"></p>
+<figcaption>Macaque<sup>1</sup></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: flex-start;">
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek_corticostriatal_endpoints.png" height="800"></p>
+<figcaption>Human<sup>2</sup></figcaption>
 </figure>
 </div>
 </div>
@@ -1271,16 +1458,16 @@ Kevin R. Sitek, Ph.D.
 </div><ol class="aside-footnotes"><li id="fn11"><p>Yeterian &amp; Pandya (1997)</p></li><li id="fn12"><p>Sitek et al.&nbsp;(2022 preprint); Sitek et al.&nbsp;(submitted)</p></li></ol></aside></section>
 <section id="how-do-humans-learn-new-sensory-categories" class="slide level2">
 <h2>How do humans learn new sensory categories?</h2>
-<ul>
-<li class="fragment">7 Tesla high resolution functional MRI (1.5 mm isotropic vixels)</li>
-<li class="fragment">12 non-Mandarin-speaking participants (18–30 years old)</li>
-<li class="fragment">Auditory category learning task with Mandarin tone stimuli<sup>1</sup></li>
-</ul>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="images/Sitek2025_categorization/Sitek_Figure1.png" class="fragment quarto-figure quarto-figure-center" height="600"></p>
 </figure>
 </div>
+<ul>
+<li class="fragment">7 Tesla high resolution functional MRI (1.5 mm isotropic vixels)</li>
+<li class="fragment">12 non-Mandarin-speaking participants (18–30 years old)</li>
+<li class="fragment">Auditory category learning task with Mandarin tone stimuli<sup>1</sup></li>
+</ul>
 
 <aside class="notes">
 <p>Speaker notes go here.</p>
@@ -1296,7 +1483,7 @@ Kevin R. Sitek, Ph.D.
           display:block!important;
       }</style></aside>
 <aside><div>
-<p>Sitek et al.&nbsp;(submitted)</p>
+
 </div><ol class="aside-footnotes"><li id="fn13"><p>Yi et al., 2016; Reetzke et al., 2018; Feng et al., 2019; …</p></li></ol></aside></section>
 <section id="successful-learning-of-new-auditory-categories-in-mri" class="slide level2">
 <h2>Successful learning of new auditory categories in MRI</h2>
@@ -1316,102 +1503,144 @@ Kevin R. Sitek, Ph.D.
           display:block!important;
       }</style></aside>
 <aside><div>
-<p>Sitek et al.&nbsp;(submitted)</p>
+<p>Sitek et al.&nbsp;(in revision)</p>
 </div></aside></section>
+<section id="auditory-fmri-responses-to-sound-presentation" class="slide level2">
+<h2>Auditory fMRI responses to sound presentation</h2>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row quarto-layout-valign-bottom">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek2025_categorization/Sitek_Figure1_left.png" height="700"></p>
+<figcaption>Cortical sound responses</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek2025_categorization/Sitek_Figure1_right.png" height="700"></p>
+<figcaption>Striatal sound responses</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<aside class="notes">
+<p>Sound responses: everything significant except for ParsTri</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<aside><div>
+<p>Sitek et al.&nbsp;(in revision)</p>
+</div></aside></section>
+<section id="representational-similarity-analysis-rsa-of-auditory-categories" class="slide level2">
+<h2>Representational similarity analysis (RSA) of auditory categories</h2>
+<div class="columns">
+<div class="column fragment" style="width:20%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek2025_categorization/Sitek_RSA-models.png" class="quarto-figure quarto-figure-center" height="800"></p>
+</figure>
+</div>
+</div><div class="column fragment" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek2025_categorization/Sitek_RSA-ROI-results.png" class="quarto-figure quarto-figure-center" height="850"></p>
+</figure>
+</div>
+</div><div class="column fragment" style="width:40%;">
+<h4 id="striatum-rsa">Striatum RSA</h4>
+<ul>
+<li>Stronger Tone than Talker representation overall</li>
+<li>No significant difference between subdivisions</li>
+</ul>
+<h4 id="cortical-rsa">Cortical RSA</h4>
+<ul>
+<li>Stronger Tone than Talker representation overall <em>and for each region</em></li>
+<li>Significantly stronger Tone representation in STGp vs.&nbsp;HG or PT</li>
+</ul>
+</div></div>
+
+<aside class="notes">
+<p>Sound responses: everything significant except for ParsTri</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<aside><div>
+<p>Sitek et al.&nbsp;(in revision)</p>
+</div></aside></section>
+<section id="fmri-responses-to-feedback-correct-vs.-wrong" class="slide level2">
+<h2>fMRI responses to feedback (“correct” vs.&nbsp;“wrong”)</h2>
+<div class="columns">
+<div class="column fragment" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek2025_categorization/Sitek_feedback_striatal_all-runs.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column fragment" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Sitek2025_categorization/Sitek_feedback_striatal_final-vs-early.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+<div class="fragment">
+<h4 id="striatum-feedback-responses">Striatum feedback responses</h4>
+<ul>
+<li>Stronger responses overall in early vs.&nbsp;final learning stages (runs)</li>
+<li>All regions showed positive responses in early learning stage</li>
+<li>Only anterior putamen <em>maintained</em> positive responses across all runs</li>
+<li>Only anterior caudate <em>significantly decreased</em> responses from early to final learning stages</li>
+</ul>
+</div>
+
+<aside class="notes">
+<p>Sound responses: everything significant except for ParsTri</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<aside><div>
+<p>Sitek et al.&nbsp;(in revision)</p>
+</div></aside></section>
+
 <section id="auditory-categorization-in-the-human-brain-1" class="slide level2">
 <h2>Auditory categorization in the human brain</h2>
-<div class="quarto-layout-panel" data-layout-ncol="3">
-<div class="quarto-layout-row quarto-layout-valign-bottom">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<div class="fragment">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/Sitek2025_categorization/Sitek_Figure1_left.png" height="600"></p>
-<figcaption>Auditory cortical responses to sound</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<div class="fragment">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/Sitek2025_categorization/Sitek_Figure1_right.png" height="600"></p>
-<figcaption>Striatal responses to sound</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<div class="fragment">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/Sitek2025_categorization/Sitek_Figure-fb_plots.png"></p>
-<figcaption>Striatal responses to positive feedback</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<aside class="notes">
-<p>Sound responses: everything significant except for PUT-VP and ParsTri</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-<aside><div>
-<p>Sitek et al.&nbsp;(submitted)</p>
-</div></aside></section>
-<section id="finger-motor-representation-in-the-human-brain" class="slide level2 smaller">
-<h2>Finger motor representation in the human brain</h2>
-<div class="fragment quarto-layout-panel" data-layout-ncol="3">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img data-src="images/Moya_etal_2025/dmncADL.png"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img data-src="images/Moya_etal_2025/dmncADR.png"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img data-src="images/Moya_etal_2025/dmncPVR.png"></p>
-</div>
-</div>
-</div>
-<p>Posterior mean dominance greater than 25% across voxels for the <span style="color:red;">right index (red)</span>, <span style="color:blue;">left index (blue)</span>, and <span style="color:green;">middle fingers (green)</span>.</p>
-<p><img data-src="images/people/BlakeMoya.jpeg" class="absolute" style="bottom: 10px; right: 10px; width: 200px; height: 200px; "></p>
-
-<aside class="notes">
-<p>Moya et al. Results for the fingertip mapping study:<br>
-Fingertip dominance across the investigated regions. Posterior mean dominance greater than <span class="math inline">\(25\%\)</span> is shown across voxels for the right index finger (red), left index (blue), and middle fingers (green) based on the estimated partition structures and the estimated effect intensities.<br>
-Colors blend when two or more fingers exhibit greater than <span class="math inline">\(25\%\)</span> dominance probabilities at the same location, showing areas of competing dominance for the right index and either middle finger (yellow), left index and either middle finger (cyan), and the two index fingers (purple).</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-<aside><div>
-<p>Moya et al.&nbsp;(in prep.)</p>
-</div></aside></section>
-<section id="auditory-categorization-in-the-human-brain-2" class="slide level2">
-<h2>Auditory categorization in the human brain</h2>
 <ul>
-<li class="fragment">Learning a new auditory categorization broadly activates striatum</li>
-<li class="fragment">Feedback:
+<li class="fragment">Learning a new auditory category broadly activates striatum and auditory cortex</li>
+<li class="fragment">Both striatum and cortex develop <strong>representations</strong> of task-relevant categories</li>
+<li class="fragment">When presented with <strong>feedback</strong>:
 <ul>
 <li class="fragment"><strong>Anterior caudate</strong> responds highest early on</li>
 <li class="fragment"><strong>Anterior putamen</strong> responds across learning stages</li>
@@ -1433,7 +1662,7 @@ Colors blend when two or more fingers exhibit greater than <span class="math inl
           display:block!important;
       }</style></aside>
 <aside><div>
-<p>Sitek et al.&nbsp;(submitted)</p>
+<p>Sitek et al.&nbsp;(in revision)</p>
 </div></aside></section>
 <section id="the-developing-auditory-system" class="slide level2">
 <h2>The developing auditory system</h2>

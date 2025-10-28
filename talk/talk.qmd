@@ -372,69 +372,86 @@ OHBM 2023, 2024, 2025
 Speaker notes go here.
 :::
 
-## But what if we don't have a 7T MRI?
+# But what if we don't have a 7T MRI?
 
-### Multi-echo fMRI improves brainstem sensitivity at 3T
+## Improving brainstem sensitivity at 3T with multi-echo fMRI 
 
 ![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 
 :::: {.columns}
 
-::: {.column .fragment}
+::: {.column}
+::: {.fragment}
+#### How can we facilitate auditory pathway imaging? 
+- Most research scanners are 3T, not 7T
+- Previous auditory brainstem mapping at 3T used compromised approaches
+:::
+
+::: {.fragment}
+#### Multi-echo fMRI improves subcortical (and cortical!) fMRI sensitivity
+- Typical fMRI uses one readout ("echo")
+- But optimal echo time (TE) isn't consistent across the brain
+- Multi-echo fMRI allows *optimal combination* of different TEs across the brain
+- Also enables ICA noise removal across echoes (`tedana`)
+:::
+:::
+
+::: {.column}
+![Chandana Kodiweera, Ph.D. - Dartmouth BIC](images/multiecho-vs-singleecho.png){fig-align="center" .fragment}
+
+![Kundu et al. (2017)](images/physics_kundu_2017_multiple_echoes_3T-only.png){height=200 fig-align="left" .fragment}
+:::
+
+::::
+
+
+::: aside
+Medina et al. (in prep.; ISMRM 2025)
+:::
+
+::: {.notes}
+So far, each of the results I've shown have used 7 Tesla MRI. 
+These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. 
+But they're still much less common than 3 Tesla MRIs. 
+Fortunately, data acquisition protocols have improved sensitivty even at 3T, 
+so that we can reliably identify auditory midbrain and thalamus.
+
 - Multi-echo fMRI acquisition
   - Echo times = 13.40/39.5/65.6 ms
   - Repetition time = 2.2 s
   - Multiband factor = 2
-  - Voxel size = 1.731×1.731×4 mm^3
+  - Voxel size = 1.731×1.731×4 mm^3^
   - Whole-brain coverage (44 slices, FOV=180mm)
 - Multi-echo optimal combination + ICA noise removal (`tedana`)
 :::
 
-::: {.column  .fragment}
-![](images/Medina2025/Medina_task.png){fig-align="center" height=600}
-:::
 
-::::
-
-::: aside
-Medina et al. (in prep.; ISMRM 2025)
-:::
-
-::: {.notes}
-So far, each of the results I've shown have used 7 Tesla MRI. 
-These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. 
-But they're still much less common than 3 Tesla MRIs. 
-Fortunately, data acquisition protocols have improved sensitivty even at 3T, 
-so that we can reliably identify auditory midbrain and thalamus.
-:::
-
-## But what if we don't have a 7T MRI?
-
-### Multi-echo fMRI improves brainstem sensitivity at 3T
-
+## Improving brainstem sensitivity at 3T with multi-echo fMRI 
 
 ![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 
 :::: {.columns}
 
-::: {.column .fragment}
-High sensitivity across individuals
-
-::: {.r-stack}
-![](images/Medina2025/Medina_cortex.png){.fragment fig-align="center" height=600}
-
-![](images/Medina2025/Medina_overview.png){.fragment fig-align="center" height=700}
+::: {.column}
+### Listening task in 3T fMRI
+::: {.fragment}
+- 14 participants
+- 10 minutes of pop-song listening
+- 3 participants returned for precision-mapping session
 :::
 
+::: {.fragment}
+- Multi-echo fMRI acquisition from UMinn CMRR
+  - Echo times = 13.40/39.5/65.6 ms
+  - Whole-brain coverage with voxel size = 1.731×1.731×4 mm^3^
+- Multi-echo optimal combination + ICA noise removal (`tedana`)
+:::
 :::
 
-::: {.column .fragment}
-High reliability within individuals 
-
-![](images/Medina2025/Medina_sub-01.png){fig-align="center" height=600}
-
+::: {.column  .fragment}
+![](images/Medina2025/Medina_task.png){fig-align="center" height=700}
 :::
 
 ::::
@@ -449,6 +466,103 @@ These are becoming more prevalent, especially now that the Siemens Terra is appr
 But they're still much less common than 3 Tesla MRIs. 
 Fortunately, data acquisition protocols have improved sensitivty even at 3T, 
 so that we can reliably identify auditory midbrain and thalamus.
+
+- Multi-echo fMRI acquisition
+  - Echo times = 13.40/39.5/65.6 ms
+  - Repetition time = 2.2 s
+  - Multiband factor = 2
+  - Voxel size = 1.731×1.731×4 mm^3^
+  - Whole-brain coverage (44 slices, FOV=180mm)
+- Multi-echo optimal combination + ICA noise removal (`tedana`)
+:::
+
+## Multi-echo fMRI improves group-level sensitivity at 3T
+
+![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
+
+![](images/Medina2025/Medina_Figure1.png){.fragment fig-align="center" height=900}
+
+::: aside
+Medina et al. (in prep.; ISMRM 2025)
+:::
+
+::: {.notes}
+:::
+
+## Multi-echo fMRI improves group-level sensitivity at 3T {visibility="hidden"}
+
+![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
+
+:::: {.columns}
+
+::: {.column}
+![](images/Medina2025/Medina_cortex.png){.fragment fig-align="center"}
+:::
+
+::: {.column}
+![](images/Medina2025/Medina_overview.png){.fragment fig-align="center"}
+:::
+
+::::
+
+::: aside
+Medina et al. (in prep.; ISMRM 2025)
+:::
+
+::: {.notes}
+:::
+
+## Improved precision mapping with multi-echo fMRI
+
+![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
+
+:::: {.columns}
+
+::: {.column .fragment}
+![](images/Medina2025/Medina_Figure4b.png){fig-align="center"}
+:::
+
+::: {.column .fragment}
+![](images/Medina2025/Medina_Figure4a.png){fig-align="center"}
+:::
+
+::::
+
+::: aside
+Medina et al. (in prep.; ISMRM 2025)
+:::
+
+::: {.notes}
+:::
+
+
+## Improving brainstem sensitivity at 3T with multi-echo fMRI 
+
+### Future applications: Auditory processing across the lifespan
+
+:::: {.columns}
+
+::: {.column .fragment}
+#### Auditory processing changes throughout adulthood
+- How does speech-in-noise processing change in middle age and beyond?
+- What neural patterns predict later cochlear implant success?
+
+::: {.fragment}
+#### Speech processing in the developing brain
+- How do children make auditory category decisions, and how are they affected by noise?
+- What compensatory neural pathways are available to children with developmental communication differences?
+:::
+:::
+
+::: {.column .fragment}
+![Moser et al. (2025)](images/imag_a_00426_fig4.jpeg){fig-align="center" height=800}
+:::
+
+::::
+
+
+::: {.notes}
+Moser et al. (2025): https://doi.org/10.1162/imag_a_00426
 :::
 
 # Auditory–motor interactions across the auditory pathway
@@ -715,15 +829,39 @@ Speaker notes go here.
 Speaker notes go here.
 :::
 
-## Pathways for auditory learning and categorization
+## How do we learn new sensory categories?
+
+::: {layout="[70,30]"}
+
+::: {.incremental}
+- Dorsal striatum contribute to learning new categories thanks to:
+  - its many-to-one projections from **distributed cortical networks** that subserve motor planning, feedback processing, and decision-making
+  - its role in **task-relevant sensory processing** (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)
+- Prior work in humans shows consistent dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)
+- Little is known about the anatomical pathways that connect the human auditory system to the striatum
+- How do *subdivisions* of dorsal striatum contribute to category learning?
+:::
+
+![Lim et al., 2014](images/Lim_striatum-schematic.jpg){fig-align="center"}
+:::
+
+::: aside
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Auditory-striatal pathways for learning and categorization
 
 ::: {.incremental}
 
-::: {layout="[30,70]"}
+::: {layout="[25,75]"}
 
-![Macaque auditory-striatal connections^[Yeterian & Pandya (1997)]](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
+![Macaque^[Yeterian & Pandya (1997)]](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
 
-![Human auditory–striatal connections^[Sitek et al. (2022 preprint); Sitek et al. (submitted)]](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="600" .fragment}
+![Human^[Sitek et al. (2022 preprint); Sitek et al. (submitted)]](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="800" .fragment}
 
 :::
 :::
@@ -737,16 +875,16 @@ Speaker notes go here.
 
 ## How do humans learn new sensory categories?
 
+![](images/Sitek2025_categorization/Sitek_Figure1.png){fig-align="center" height="600" .fragment}
+
 ::: {.incremental}
 - 7 Tesla high resolution functional MRI (1.5 mm isotropic vixels)
 - 12 non-Mandarin-speaking participants (18–30 years old)
 - Auditory category learning task with Mandarin tone stimuli^[Yi et al., 2016; Reetzke et al., 2018; Feng et al., 2019; …]
 :::
 
-![](images/Sitek2025_categorization/Sitek_Figure1.png){fig-align="center" height="600" .fragment}
 
 ::: aside
-Sitek et al. (submitted)
 :::
 ::: {.notes}
 Speaker notes go here.
@@ -758,31 +896,87 @@ Speaker notes go here.
 ![](images/Sitek2025_categorization/Sitek_beh_Figure2.png)
 
 ::: aside
-Sitek et al. (submitted)
+Sitek et al. (in revision)
 :::
 ::: {.notes}
 Speaker notes go here.
 :::
 
-## Auditory categorization in the human brain
+## Auditory fMRI responses to sound presentation
 
-::: {layout-ncol=3 layout-valign="bottom"}
-![Auditory cortical responses to sound](images/Sitek2025_categorization/Sitek_Figure1_left.png){height="600" .fragment}
+::: {layout-ncol=2 layout-valign="bottom"}
+![Cortical sound responses](images/Sitek2025_categorization/Sitek_Figure1_left.png){height="700" .fragment}
 
-![Striatal responses to sound](images/Sitek2025_categorization/Sitek_Figure1_right.png){height="600" .fragment}
+![Striatal sound responses](images/Sitek2025_categorization/Sitek_Figure1_right.png){height="700" .fragment}
 
-![Striatal responses to positive feedback](images/Sitek2025_categorization/Sitek_Figure-fb_plots.png){ .fragment}
 :::
 
 ::: aside
-Sitek et al. (submitted)
+Sitek et al. (in revision)
 :::
 
 ::: {.notes}
-Sound responses: everything significant except for PUT-VP and ParsTri
+Sound responses: everything significant except for ParsTri
 :::
 
-## Finger motor representation in the human brain {.smaller}
+## Representational similarity analysis (RSA) of auditory categories
+
+:::: {.columns}
+
+::: {.column width="20%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_RSA-models.png){height="800" fig-align="center"}
+:::
+::: {.column width="40%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_RSA-ROI-results.png){height="850" fig-align="center"}
+:::
+::: {.column width="40%" .fragment}
+#### Striatum RSA
+  - Stronger Tone than Talker representation overall
+  - No significant difference between subdivisions
+
+#### Cortical RSA
+  - Stronger Tone than Talker representation overall *and for each region*
+  - Significantly stronger Tone representation in STGp vs. HG or PT
+:::
+::::
+
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Sound responses: everything significant except for ParsTri
+:::
+
+
+## fMRI responses to feedback ("correct" vs. "wrong")
+
+:::: {.columns}
+::: {.column width="50%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_feedback_striatal_all-runs.png){fig-align="center"}
+:::
+::: {.column width="50%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_feedback_striatal_final-vs-early.png){fig-align="center"}
+:::
+::::
+
+:::: {.fragment}
+#### Striatum feedback responses 
+  - Stronger responses overall in early vs. final learning stages (runs)
+  - All regions showed positive responses in early learning stage
+  - Only anterior putamen *maintained* positive responses across all runs
+  - Only anterior caudate *significantly decreased* responses from early to final learning stages
+:::
+
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Sound responses: everything significant except for ParsTri
+:::
+
+## Finger motor representation in the human brain {.smaller visibility="hidden"}
 
 ::: {layout-ncol=3 .fragment}
 ![](images/Moya_etal_2025/dmncADL.png)
@@ -810,14 +1004,15 @@ Colors blend when two or more fingers exhibit greater than $25\%$ dominance prob
 ## Auditory categorization in the human brain
 
 ::: {.incremental}
-- Learning a new auditory categorization broadly activates striatum
-- Feedback: 
+- Learning a new auditory category broadly activates striatum and auditory cortex
+- Both striatum and cortex develop **representations** of task-relevant categories
+- When presented with **feedback**: 
   - **Anterior caudate** responds highest early on
   - **Anterior putamen** responds across learning stages
 - We can use 7T fMRI to understand *fine-grained* striatal activity
 :::
 ::: aside
-Sitek et al. (submitted)
+Sitek et al. (in revision)
 :::
 
 ::: {.notes}
