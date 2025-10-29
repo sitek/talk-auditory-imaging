@@ -3,7 +3,7 @@ title: "Imaging the human auditory system"
 subtitle: "Neuroanatomy, motor integration, and categorization"
 author: "Kevin R. Sitek, Ph.D."
 institute: Northwestern University
-date: October 6, 2025
+date: October 31, 2025
 
 title-slide-attributes:
     data-background-image: /images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png
@@ -516,9 +516,12 @@ Medina et al. (in prep.; ISMRM 2025)
 
 ![](images/people/MichelleMedina.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
+
 :::: {.columns}
 
 ::: {.column .fragment}
+#### Multi-echo requires less scan time to identify auditory thalamus and brainstem
+
 ![](images/Medina2025/Medina_Figure4b.png){fig-align="center"}
 :::
 
@@ -563,6 +566,7 @@ Medina et al. (in prep.; ISMRM 2025)
 
 ::: {.notes}
 Moser et al. (2025): https://doi.org/10.1162/imag_a_00426
+"The sample consists of one adult (PA001) and two children (PC001 and PC002; age 10) enrolled at the University of Minnesota (UMN), and one adult (PA002) and three healthy neonates enrolled at Washington University in St. Louis (WashU), ages 28 days (43 weeks postmenstrual age (wPMA); PB004), 12 days (41 wPMA; PB005), and 13 days (41 wPMA; PB001)"
 :::
 
 # Auditory–motor interactions across the auditory pathway
@@ -650,18 +654,21 @@ Speaker notes go here.
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
 #### The scalp-recorded frequency-following response (FFR) shows the fidelity of incoming sound encoding
-:::: {.columns}
+:::: {layout="[60,40]"}
 
 ::: {.column .fragment}
 - If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
-- Collected FFR from 33 normal-hearing adults in *active* (button-press + sound) and *passive* (sound only) conditions
+- Recorded FFRs to /da/ stimulus (alternating polarity)
+  - *Active* condition: press a button to generate a sound
+  - *Passive* condion: passive presentation of the sound
+- Collected data from 33 normal-hearing adults while they watched a silent captioned TV show
 :::
 
 ::: {.column .fragment}
 
-![](images/Butler_etal_2025/Butler_EEG.png){fig-align="center" height="300"}
+![](images/Butler_etal_2025/Butler_EEG.png){fig-align="left" height="300"}
 
-![](images/Butler_etal_2025/Butler_stimulus.png){fig-align="center" height="300"}
+![](images/Butler_etal_2025/Butler_stimulus.png){fig-align="left" height="250"}
 
 :::
 ::::
