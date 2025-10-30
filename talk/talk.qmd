@@ -502,13 +502,14 @@ Medina et al. (in prep.; ISMRM 2025)
 
 :::: {.columns}
 
-::: {.column .fragment}
+::: {.column width="60%" .fragment}
 #### Multi-echo requires less scan time to identify auditory thalamus and brainstem
 
 ![](images/Medina2025/Medina_Figure4b.png){fig-align="center"}
 :::
 
-::: {.column .fragment}
+::: {.column width="40%" .fragment}
+#### Subcortical activations are stronger with multi-echo than single-echo fMRI
 ![](images/Medina2025/Medina_Figure4a.png){fig-align="center"}
 :::
 
