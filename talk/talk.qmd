@@ -63,6 +63,9 @@ BUT THE VAST MAJORITY OF OUR KNOWLEDGE COMES FROM ANIMAL STUDIES
 
 ::::
 
+::: {.fragment}
+### But: small, deep brain structures are challenging to image.
+:::
 
 ::: {.notes}
 Across human behaviors, studying the brainstem is challenging.
@@ -703,12 +706,12 @@ If integration is subcortical, would expect to see FFR differences between self-
 
 ::: {.column .fragment}
 #### Brainstem frequency-following response
-![](images/Butler_etal_2025/Butler_FFR_waveform.png)
+![](images/Butler_etal_2025/Butler_FFR_waveform.png){height=700}
 :::
 
 ::: {.column .fragment}
 #### Cortical evoked response
-![](images/Butler_etal_2025/Butler_cortical_waveform.png)
+![](images/Butler_etal_2025/Butler_cortical_waveform.png){height=700}
 
 :::
 ::::
@@ -729,12 +732,12 @@ Butler, ..., Sitek (in prep; SNL 2025)
 
 ::: {.column .fragment}
 #### Brainstem frequency-following response
-![](images/Butler_etal_2025/Butler_FFR_spectro.png)
+![](images/Butler_etal_2025/Butler_FFR_spectro.png){fig-align="center" height=450}
 :::
 
 ::: {.column .fragment}
 #### Cortical evoked response
-![](images/Butler_etal_2025/Butler_cortical_spectro.png)
+![](images/Butler_etal_2025/Butler_cortical_spectro.png){fig-align="center" height=450}
 
 :::
 ::::
@@ -750,7 +753,7 @@ Butler, ..., Sitek (in prep; SNL 2025)
 
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
-![](images/Butler_etal_2025/Butler_FFR_pitchtracking.png){height="800" fig-align="center"}
+![](images/Butler_etal_2025/Butler_FFR_pitchtracking.png){.fragment height="800" fig-align="center"}
 
 ::: aside
 Butler, ..., Sitek (in prep; SNL 2025)
@@ -1039,13 +1042,22 @@ Speaker notes go here.
 
 ## Non-invasively investigating the human auditory brainstem
 
-::: {.incremental}
+:::: {.columns layout-valign="center" }
+::: {.column width="33%" .fragment}
+### Mapping the human subcortical auditory system
+![](images/SitekGulban2019/fig_invivo_diffusion-only.png)
+:::
 
-- Mapping the human subcortical auditory system
-- Auditory–motor interactions across the auditory pathway
-- Auditory categorization in the human brain
+::: {.column width="33%" .fragment}
+### Auditory–motor interactions across the auditory pathway
+![](images/Butler_etal_2025/Butler_FFR_pitchtracking-minimal.png)
+:::
 
-::: 
+::: {.column width="33%" .fragment}
+### Auditory categorization in human dorsal striatum
+![](images/Sitek2025_categorization/Sitek_feedback_striatal_all-runs_minimal.png)
+:::
+::::
 
 ::: {.notes}
 Speaker notes go here.

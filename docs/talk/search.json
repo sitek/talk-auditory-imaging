@@ -11,7 +11,7 @@
     "href": "talk.html#the-human-subcortical-auditory-system",
     "title": "Imaging the human auditory system",
     "section": "The human subcortical auditory system",
-    "text": "The human subcortical auditory system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcross human behaviors, studying the brainstem is challenging. - In vivo MRI limited by: - high resolution needed for small structures - decreased signal as voxels get smaller - decreased signal in brainstem - Limited spatial information from EEG, MEG - Some human histology studies (nuclei) - Tracer studies (connections) only in animal models"
+    "text": "The human subcortical auditory system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBut: small, deep brain structures are challenging to image.\n\n\nAcross human behaviors, studying the brainstem is challenging. - In vivo MRI limited by: - high resolution needed for small structures - decreased signal as voxels get smaller - decreased signal in brainstem - Limited spatial information from EEG, MEG - Some human histology studies (nuclei) - Tracer studies (connections) only in animal models"
   },
   {
     "objectID": "talk.html#imaging-the-human-subcortical-auditory-system",
@@ -284,7 +284,7 @@
     "href": "talk.html#non-invasively-investigating-the-human-auditory-brainstem",
     "title": "Imaging the human auditory system",
     "section": "Non-invasively investigating the human auditory brainstem",
-    "text": "Non-invasively investigating the human auditory brainstem\n\nMapping the human subcortical auditory system\nAuditory–motor interactions across the auditory pathway\nAuditory categorization in the human brain\n\n\nSpeaker notes go here."
+    "text": "Non-invasively investigating the human auditory brainstem\n\n\nMapping the human subcortical auditory system\n\n\nAuditory–motor interactions across the auditory pathway\n\n\nAuditory categorization in human dorsal striatum\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#acknowledgments",
@@ -466,7 +466,7 @@
     "href": "talk.html#active-and-passive-spectrograms",
     "title": "Imaging the human auditory system",
     "section": "Active and passive spectrograms",
-    "text": "Active and passive spectrograms\n\n\n\nBrainstem frequency-following response\n\n\nCortical evoked response\n\n\n\n\n\n\n\nButler, …, Sitek (in prep; SNL 2025)"
+    "text": "Active and passive spectrograms\n\n\n\nBrainstem frequency-following response\n\n\n\n\n\n\nCortical evoked response\n\n\n\n\n\n\n\n\n\n\n\nButler, …, Sitek (in prep; SNL 2025)"
   },
   {
     "objectID": "talk.html#active-and-passive-pitch-tracking",
