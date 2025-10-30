@@ -582,20 +582,40 @@ Ultimately, we want to *use* these approaches to learn more about the *function*
 :::: {.columns}
 
 ::: {.column .fragment}
-#### Suppressed auditory cortical response to own voice during speaking vs. playback^[Houde & Jordan (2002)]
+#### Suppressed cortical response to own voice during speaking vs. playback^[Houde & Jordan (2002)]
 
-![MEG M100 speech-induced suppression](images/HoudeJordan2002.png){fig-align="center" height="500" .fragment}
+![MEG M100 speech-induced suppression](images/HoudeJordan2002.png){fig-align="center" height="600"}
 
 :::
 
 ::: {.column .fragment}
-#### Processing variability in our own speech^[**Sitek** et al. (2013)]
 
-![](images/Sitek2013_Fig1.png){fig-align="center" height="500" .fragment}
+#### *Increased* BOLD in STG for self-generated tones^[Reznik et al. (2014)]
 
-#### *Increased* BOLD in STG for self-generated tones^[Reznik et al. (2015)]
+![](images/Reznik2014_Figure1.png){fig-align="center" height="600"}
+:::
+::::
 
-![](images/Reznik2015.png){fig-align="center" .fragment}
+::: {.notes}
+Houde; Niziolek; Chang; 
+:::
+
+## Processing variability in our own speech
+
+:::: {.columns}
+
+::: {.column .fragment}
+#### Relative to a central production^[Niziolek et al. (2013)]
+
+![](images/Niziolek2013_Figure1.png){fig-align="center" height="700"}
+
+:::
+
+::: {.column .fragment}
+#### Relative to the previous production^[**Sitek**, ..., Niziolek, & Ford (2013)]
+
+![](images/Sitek2013_Fig1.png){fig-align="center" height="700"}
+
 :::
 ::::
 
@@ -868,7 +888,7 @@ Speaker notes go here.
 
 ![Macaque^[Yeterian & Pandya (1997)]](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
 
-![Human^[Sitek et al. (2022 preprint); Sitek et al. (submitted)]](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="800" .fragment}
+![Human^[Sitek et al. (2022 preprint); Sitek et al. (submitted)]](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="750" .fragment}
 
 :::
 :::

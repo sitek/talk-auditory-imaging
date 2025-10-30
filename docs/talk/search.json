@@ -137,7 +137,7 @@
     "href": "talk.html#human-speech-and-auditory-feedback-processing",
     "title": "Imaging the human auditory system",
     "section": "Human speech and auditory feedback processing",
-    "text": "Human speech and auditory feedback processing\n\n\nSuppressed auditory cortical response to own voice during speaking vs. playback1\n\n\n\n\nMEG M100 speech-induced suppression\n\n\n\n\nProcessing variability in our own speech2\n\n\n\n\n\nIncreased BOLD in STG for self-generated tones3\n\n\n\n\n\n\n\nHoude; Niziolek; Chang;\n\nHoude & Jordan (2002)Sitek et al. (2013)Reznik et al. (2015)"
+    "text": "Human speech and auditory feedback processing\n\n\nSuppressed cortical response to own voice during speaking vs. playback1\n\n\n\nMEG M100 speech-induced suppression\n\n\n\nIncreased BOLD in STG for self-generated tones2\n\n\n\n\n\n\n\nHoude; Niziolek; Chang;\n\nHoude & Jordan (2002)Reznik et al. (2014)"
   },
   {
     "objectID": "talk.html#cortical-feedback-processing-in-animals",
@@ -432,5 +432,12 @@
     "title": "Imaging the human auditory system",
     "section": "How do we learn new sensory categories?",
     "text": "How do we learn new sensory categories?\n\n\n\n\nDorsal striatum contribute to learning new categories thanks to:\n\nits many-to-one projections from distributed cortical networks that subserve motor planning, feedback processing, and decision-making\nits role in task-relevant sensory processing (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)\n\nPrior work in humans shows consistent dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)\nLittle is known about the anatomical pathways that connect the human auditory system to the striatum\nHow do subdivisions of dorsal striatum contribute to category learning?\n\n\n\n\n\n\nLim et al., 2014\n\n\n\n\n\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "talk.html#processing-variability-in-our-own-speech",
+    "href": "talk.html#processing-variability-in-our-own-speech",
+    "title": "Imaging the human auditory system",
+    "section": "Processing variability in our own speech",
+    "text": "Processing variability in our own speech\n\n\nRelative to a central production1\n\n\n\n\n\n\nRelative to the previous production2\n\n\n\n\n\n\n\nHoude; Niziolek; Chang;\n\nNiziolek et al. (2013)Sitek, …, Niziolek, & Ford (2013)"
   }
 ]
