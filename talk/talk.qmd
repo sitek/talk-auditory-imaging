@@ -13,7 +13,7 @@ title-slide-attributes:
 format:
   revealjs: 
     footer: "http://sitek.github.io/talk-auditory-imaging"
-    slide-number: false
+    slide-number: False
     chalkboard: 
       buttons: false
     preview-links: auto
@@ -94,20 +94,23 @@ Across human behaviors, studying the brainstem is challenging.
 Speaker notes go here.
 :::
 
-## My contributions
+## 
 
-::: {.incremental}
+:::: {.columns}
 
-- Mapping the human subcortical auditory system
-  - Anatomy
-  - Function
-  - Connectivity (structural and functional)
-- Behavior of the human auditory system
-  - Auditory–motor interactions across the auditory pathway
-  - Auditory categorization in the human brain
-  - Developing speech-in-noise processes
-
-::: 
+::: {.column .fragment}
+### Mapping the human subcortical auditory system
+- Anatomy
+- Function
+- Connectivity (structural and functional)
+:::
+::: {.column .fragment}
+### Behavior of the human auditory system
+- Auditory–motor interactions across the auditory pathway
+- Auditory categorization in the human brain
+- Developing speech-in-noise processes
+:::
+::::
 
 ::: aside
 This work is actively supported by K01-DC019421 and R21-DC022906.
@@ -134,17 +137,19 @@ Speaker notes go here.
 
 ## *Where* are the auditory structures in humans?
 
-::: {.incremental}
-
+::: {.fragment}
+### Post mortem localization 
 - Human histology: BigBrain (20 µm)
 - Post mortem brainstem MRI (small-bore 7 Tesla Bruker MRI)
   - T2*-weighted anatomy (50 µm)
   - Diffusion-weighted MRI (200 µm)
+:::
+::: {.fragment}
+### In vivo localization 
 - 7 Tesla functional MRI (Siemens Magnetom; 1.1 mm voxels)
   - 168 natural sounds (1 s each); sound > baseline contrast
   - Collected over 2 sessions
-
-::: 
+:::
 
 ## Human histology mapping
 
@@ -180,8 +185,19 @@ Speaker notes go here.
 :::
 
 ## In vivo functional MRI mapping
-![](images/SitekGulban2019/fig_invivo_statmaps_and_exvivo_vasculature.png){fig-align="center" height=800}
+:::: {.columns}
+::: {.column width="27%" .fragment}
+### 7 Tesla functional MRI (1.1 mm voxels)
+- 168 natural sounds (1 s each): speech, voice, nature, tools, music, animals and monkey calls
+- Sound > baseline contrast
+- 2 hours per session
+- Collected over 2 sessions
+:::
 
+::: {.column width="73%" .fragment}
+![](images/SitekGulban2019/fig_invivo_statmaps_and_exvivo_vasculature.png){fig-align="center" height=900}
+:::
+::::
 ![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
 ::: aside
@@ -189,10 +205,10 @@ Sitek* and Gulban* et al. (2019 *eLife*)
 :::
 
 ::: {.notes}
-Speaker notes go here.
+Participants listened to 168 natural sounds (1 s long) coming from seven categories (speech, voice, nature, tools, music, animals and monkey calls) presented in silent gaps in between the acquisition of functional volumes and were asked to press a button every time the same sound was repeated. The experimental paradigm followed a rapid-eventrelated design in which sounds were presented with a mean inter stimulus interval of four volumes (minimum three maximum five volumes). The two sessions were identical and each session consisted of twelve functional runs and across the 12 runs each sound was presented three times (i.e. each sounds was presented six times across the two sessions). The 168 sounds were divided in four sets of 42 sounds, each set was presented in three (non consecutive) runs. As a result, the 12 functional runs of each session formed four cross validation sets each one consisting of nine training runs and three testing runs (i.e. 126 training and 42 testing sounds). Note that the testing runs were non overlapping across the cross validations. Catch trials (i.e. sound repetitions) were added to each run, and were excluded from all analyses.
 :::
 
-## *Where* are the auditory structures: Public atlases from three sources
+## *Where* are the auditory structures: Three public atlases 
 
 ::: {.r-stack}
 {{< video images/SitekGulban2019/elife-48932-fig9-video1.mp4 >}}
@@ -216,19 +232,21 @@ Speaker notes go here.
 Speaker notes go here.
 :::
 
-## Anatomical connectivity mapping with diffusion-weighted MRI {.smaller}
+## Anatomical connectivity mapping 
 
-::: {layout="[50,50]"  layout-valign="center"}
+:::: {.columns  layout-valign="center"}
 
-::: {.incremental}
+::: {.column .fragment}
+### Diffusion-weighted MRI tractography
 - Look at how MRI signal varies across directions of molecular motion 
 - Since white matter constrains the motion of water molecules, we can infer orientation of white matter in each voxel
 - Then traverse voxel-to-voxel to estimate pathways (*tractography*)
 :::
 
+::: {.column .fragment}
 ![whole-brain diffusion tractography (HCP MGH Connectom data)](images/Connectom_tractogram.png){}
-
 :::
+::::
 
 ::: {.notes}
 Speaker notes go here.
@@ -285,10 +303,9 @@ Speaker notes go here.
 
 ## How are the auditory structures connected **functionally**?{.smaller}
 
-::: {layout="[50,50]"}
+:::: {columns}
 
-![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){data-id="fig1"}
-
+::: {.column width="50%"}
 ::: {.incremental}
 - 7T Human Connectome Project (106 participants)
 - 4 runs of resting state fMRI
@@ -296,8 +313,17 @@ Speaker notes go here.
   - 2 Anterior–Posterior runs, 2 Posterior–Anterior runs
 - Partial correlations via novel autoregressive matrix-Gaussian copula graphical model
 :::
-
+![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){height="400"}
 :::
+
+::: {.column width="25%" }
+![](images/ChandraSitek/FAC_fig-2_main-result_AP.png){.fragment}
+:::
+::: {.column width="25%" }
+![](images/ChandraSitek/FAC_fig-2_main-result_PA.png){.fragment}
+:::
+
+::::
 
 ![](images/people/NoirritChandra.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
@@ -309,7 +335,7 @@ Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
 Speaker notes go here.
 :::
 
-## How are the auditory structures connected **functionally**?
+## How are the auditory structures connected **functionally**? {visibility="hidden"}
 
 ::: {layout="[50,25,25]"   layout-valign="center"}
 ![](images/ChandraSitek/FAC_fig-2_main-result_schematic.png){data-id="fig1"}
@@ -323,49 +349,6 @@ Speaker notes go here.
 
 ::: aside
 Chandra* and Sitek* et al. (2024 *Imaging Neuro*)
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-## How is the brainstem supplied oxygen? {.nostretch}
-
-![](images/Xu2025/vasculature_T2w.png){.absolute top=10 right=10 width="300" height="300"}
-
-::: {layout="[40,20,40]"  layout-valign="center" .fragment }
-![Vessel ink staining (Duvernoy 1978)](images/Xu2025/vasculature_Duvernoy.png){height="750" .fragment}
-
-![T2*-w MRI maximum intensity projection](images/Xu2025/vasculature_MIP.png){height="750" .fragment}
-
-:::
-
-![](images/people/MarshallXu.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
-
-::: aside
-OHBM 2023, 2024, 2025
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-## How is the brainstem supplied oxygen? {.nostretch}
-
-![](images/Xu2025/vasculature_T2w.png){.absolute top=10 right=10 width="300" height="300"}
-
-::: {layout="[40,20,40]"  layout-valign="center" }
-![Vessel ink staining (Duvernoy 1978)](images/Xu2025/vasculature_Duvernoy.png){height="750"}
-
-![T2*-w MRI maximum intensity projection](images/Xu2025/vasculature_MIP.png){height="750"}
-
-{{< video images/Xu2025/S64520_m0_SLA_booster_result_bg-white.mp4  >}}
-:::
-
-![](images/people/MarshallXu.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
-
-::: aside
-OHBM 2023, 2024, 2025
 :::
 
 ::: {.notes}
@@ -1030,7 +1013,109 @@ Sitek et al. (in revision)
 Sound responses: everything significant except for ParsTri
 :::
 
-## Finger motor representation in the human brain {.smaller visibility="hidden"}
+## Auditory categorization in the human brain
+
+::: {.incremental}
+- Learning a new auditory category broadly activates striatum and auditory cortex
+- Both striatum and cortex develop **representations** of task-relevant categories
+- When presented with **feedback**: 
+  - **Anterior caudate** responds highest early on
+  - **Anterior putamen** responds across learning stages
+- We can use 7T fMRI to understand *fine-grained* striatal activity
+:::
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+# Wrapping up
+
+## Non-invasively investigating the human auditory brainstem
+
+::: {.incremental}
+
+- Mapping the human subcortical auditory system
+- Auditory–motor interactions across the auditory pathway
+- Auditory categorization in the human brain
+
+::: 
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Acknowledgments {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+#### SoundBrain Lab
+- Bharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane
+- Nike Gnanateja (now UW Madison)
+- Casey Roark (now U New Hampshire)
+
+![FFR Workshop 2024](images/people/SoundBrain-lab-current-members-and-alum_FFR-workshop-2024-550x310.jpg)
+
+:::
+
+::: {.column width=50%"}
+**Northwestern**: Molly Bright, Michelle Medina (*BME PhD student*), Gabby Butler (Cog Sci UG honors student)
+
+**UT Austin collaborators**: Abhra Sarkar, Noirrit Chandra (*now UT Dallas Statistics*), Blake Moya (*now in industry*)
+
+**Pitt**: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (*K01 co-mentor*)
+
+#### Active funding and support
+- K01 DC019421 (2023–2027)
+- R21 DC022906 (2025–2028)
+- R01 DC020963 (2024–2027; PI: Bohland)
+
+![](images/US-NIH-NIDCD-Logo.svg){fig-align="center" height=100}
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+# Thank you! {background-image="/images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png" background-opacity=0.25 background-size='contain'}
+
+# Extra slides
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## How is the brainstem supplied oxygen? {.nostretch}
+
+![](images/Xu2025/vasculature_T2w.png){.absolute top=10 right=10 width="300" height="300"}
+
+::: {layout="[40,20,40]"  layout-valign="center" }
+![Vessel ink staining (Duvernoy 1978)](images/Xu2025/vasculature_Duvernoy.png){height="750"}
+
+![T2*-w MRI maximum intensity projection](images/Xu2025/vasculature_MIP.png){height="750"}
+
+{{< video images/Xu2025/S64520_m0_SLA_booster_result_bg-white.mp4  >}}
+:::
+
+![](images/people/MarshallXu.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
+
+::: aside
+OHBM 2023, 2024, 2025
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Finger motor representation in the human brain {.smaller}
 
 ::: {layout-ncol=3 .fragment}
 ![](images/Moya_etal_2025/dmncADL.png)
@@ -1055,23 +1140,6 @@ Fingertip dominance across the investigated regions. Posterior mean dominance gr
 Colors blend when two or more fingers exhibit greater than $25\%$ dominance probabilities at the same location,     showing areas of competing dominance for the right index and either middle finger (yellow), left index and either middle finger (cyan), and the two index fingers (purple).
 :::
 
-## Auditory categorization in the human brain
-
-::: {.incremental}
-- Learning a new auditory category broadly activates striatum and auditory cortex
-- Both striatum and cortex develop **representations** of task-relevant categories
-- When presented with **feedback**: 
-  - **Anterior caudate** responds highest early on
-  - **Anterior putamen** responds across learning stages
-- We can use 7T fMRI to understand *fine-grained* striatal activity
-:::
-::: aside
-Sitek et al. (in revision)
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
 
 ## The developing auditory system
 
@@ -1146,68 +1214,6 @@ Hampton-Wray R01DC019904
 ::: {.notes}
 SSP
 :::
-
-# Wrapping up
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-## Non-invasively investigating the human auditory brainstem
-
-::: {.incremental}
-
-- Mapping the human subcortical auditory system
-- Auditory–motor interactions across the auditory pathway
-- Auditory categorization in the human brain
-
-::: 
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-## Acknowledgments {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-#### SoundBrain Lab
-- Bharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane
-- Nike Gnanateja (now UW Madison)
-- Casey Roark (now U New Hampshire)
-
-![FFR Workshop 2024](images/people/SoundBrain-lab-current-members-and-alum_FFR-workshop-2024-550x310.jpg)
-
-:::
-
-::: {.column width=50%"}
-**Northwestern**: Molly Bright, Michelle Medina (*BME PhD student*), Gabby Butler (Cog Sci UG honors student)
-
-**UT Austin collaborators**: Abhra Sarkar, Noirrit Chandra (*now UT Dallas Statistics*), Blake Moya (*now in industry*)
-
-**Pitt**: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (*K01 co-mentor*)
-
-#### Active funding and support
-- K01 DC019421 (2023–2027)
-- R21 DC022906 (2025–2028)
-- R01 DC020963 (2024–2027; PI: Bohland)
-
-![](images/US-NIH-NIDCD-Logo.svg){fig-align="center" height=100}
-:::
-
-::::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-# Thank you! {background-image="/images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png" background-opacity=0.25 background-size='contain'}
-
-#
-
-# Future directions
 
 ::: {.notes}
 Speaker notes go here.
