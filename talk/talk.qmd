@@ -13,7 +13,7 @@ title-slide-attributes:
 format:
   revealjs: 
     footer: "http://sitek.github.io/talk-auditory-imaging"
-    slide-number: true
+    slide-number: false
     chalkboard: 
       buttons: false
     preview-links: auto
