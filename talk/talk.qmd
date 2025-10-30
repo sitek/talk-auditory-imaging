@@ -801,7 +801,15 @@ Speaker notes go here.
 
 ## Greater self-generated vs. passive fMRI responses in a single participant across replications
 
-![](images/Sitek_MIS_slices.png)
+:::: {.columns}
+::: {.column .fragment}
+![](images/Sitek_MIS_slices_contrast-listen.png)
+:::
+
+::: {.column .fragment}
+![](images/Sitek_MIS_slices_contrast-selfgen-vs-listen.png)
+:::
+::::
 
 ::: aside
 Sitek et al. (in prep; OHBM 2025)
@@ -829,10 +837,10 @@ Speaker notes go here.
 
 ::: {.column width="50%" .fragment}
 ::: {.incremental}
-- Increased BOLD in self-generated vs. active condition
-- Higher increases at superficial cortical depths, suggesting increased *corticocortical* feedback
+- Increased BOLD in **self-generated** vs. passive condition
+- Higher increases at **superficial** cortical depths, suggesting increased *corticocortical* feedback
 - Helps explain increased BOLD in previous studies
-- Same cortical depth effects in two acquisitions in the same participant
+- Reproducible---same cortical depth effects in two acquisitions in the same participant
 :::
 :::
 
@@ -958,12 +966,12 @@ Sound responses: everything significant except for ParsTri
 :::
 ::: {.column width="40%" .fragment}
 #### Striatum RSA
-  - Stronger Tone than Talker representation overall
+  - Stronger Tone than Talker representation overall (t = = 2.93, p = .014)
   - No significant difference between subdivisions
 
 #### Cortical RSA
   - Stronger Tone than Talker representation overall *and for each region*
-  - Significantly stronger Tone representation in STGp vs. HG or PT
+  - Significantly stronger Tone representation in **STGp** vs. HG or PT
 :::
 ::::
 
@@ -989,10 +997,10 @@ Sound responses: everything significant except for ParsTri
 
 :::: {.fragment}
 #### Striatum feedback responses 
-  - Stronger responses overall in early vs. final learning stages (runs)
-  - All regions showed positive responses in early learning stage
-  - Only anterior putamen *maintained* positive responses across all runs
-  - Only anterior caudate *significantly decreased* responses from early to final learning stages
+  - Stronger responses *overall* in early vs. final learning stages (runs)
+  - All regions showed positive responses in *early* learning stage
+  - Only **anterior putamen** *maintained* positive responses across all runs
+  - Only **anterior caudate** *significantly decreased* responses from early to final learning stages
 :::
 
 ::: aside
@@ -1073,7 +1081,7 @@ Sitek et al. (in prep.; SNL 2025)
 SSP
 :::
 
-## The developing auditory system: Speech-in-quiet vs. baseline
+## The developing auditory system: Speech-in-quiet vs. baseline fMRI contrast
 
 ![](images/Sitek_SSP_quiet-gt-baseline.png){fig-align="center" .fragment}
 
@@ -1087,7 +1095,7 @@ SSP
 
 ## The developing auditory system: Speech-in-quiet vs. -6 dB SNR
 
-![](images/Sitek_SSP_quiet-gt-n6.png){fig-align="center" .fragment}
+![](images/Sitek_SSP_quiet-gt-n6.png){fig-align="center"}
 
 ::: aside
 Sitek et al. (in prep.; SNL 2025)
@@ -1133,7 +1141,6 @@ Speaker notes go here.
 - Mapping the human subcortical auditory system
 - Auditory–motor interactions across the auditory pathway
 - Auditory categorization in the human brain
-- Communication in practice: Sharing our science
 
 ::: 
 
@@ -1148,20 +1155,16 @@ Speaker notes go here.
 ::: {.column width="50%"}
 
 #### SoundBrain Lab
-*especially:*
-
-- Bharath Chandrasekaran
+- Bharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane
 - Nike Gnanateja (now UW Madison)
 - Casey Roark (now U New Hampshire)
-- Jacie McHaney
-- Kailyn McFarlane
 
 ![FFR Workshop 2024](images/people/SoundBrain-lab-current-members-and-alum_FFR-workshop-2024-550x310.jpg)
 
 :::
 
 ::: {.column width=50%"}
-**Northwestern**: Molly Bright, Michelle Medina (*BME PhD student*)
+**Northwestern**: Molly Bright, Michelle Medina (*BME PhD student*), Gabby Butler (Cog Sci UG honors student)
 
 **UT Austin collaborators**: Abhra Sarkar, Noirrit Chandra (*now UT Dallas Statistics*), Blake Moya (*now in industry*)
 
@@ -1181,7 +1184,7 @@ Speaker notes go here.
 Speaker notes go here.
 :::
 
-# Thank you!
+# Thank you! {background-image="/images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png" background-opacity=0.25 background-size='contain'}
 
 #
 

@@ -193,7 +193,7 @@
     "href": "talk.html#greater-self-generated-vs.-passive-fmri-responses-in-a-single-participant-across-replications",
     "title": "Imaging the human auditory system",
     "section": "Greater self-generated vs. passive fMRI responses in a single participant across replications",
-    "text": "Greater self-generated vs. passive fMRI responses in a single participant across replications\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
+    "text": "Greater self-generated vs. passive fMRI responses in a single participant across replications\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
   },
   {
     "objectID": "talk.html#stronger-self-generated-vs.-passive-sound-responses-in-superficial-auditory-cortex",
@@ -207,7 +207,7 @@
     "href": "talk.html#evidence-for-layer-specific-motor-related-activation-in-human-auditory-cortex",
     "title": "Imaging the human auditory system",
     "section": "Evidence for layer-specific motor-related activation in human auditory cortex",
-    "text": "Evidence for layer-specific motor-related activation in human auditory cortex\n\n\n\nIncreased BOLD in self-generated vs. active condition\nHigher increases at superficial cortical depths, suggesting increased corticocortical feedback\nHelps explain increased BOLD in previous studies\nSame cortical depth effects in two acquisitions in the same participant\n\n\n \n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
+    "text": "Evidence for layer-specific motor-related activation in human auditory cortex\n\n\n\nIncreased BOLD in self-generated vs. passive condition\nHigher increases at superficial cortical depths, suggesting increased corticocortical feedback\nHelps explain increased BOLD in previous studies\nReproducible—same cortical depth effects in two acquisitions in the same participant\n\n\n \n\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in prep; OHBM 2025)"
   },
   {
     "objectID": "talk.html#pathways-for-auditory-learning-and-categorization",
@@ -284,14 +284,14 @@
     "href": "talk.html#non-invasively-investigating-the-human-auditory-brainstem",
     "title": "Imaging the human auditory system",
     "section": "Non-invasively investigating the human auditory brainstem",
-    "text": "Non-invasively investigating the human auditory brainstem\n\nMapping the human subcortical auditory system\nAuditory–motor interactions across the auditory pathway\nAuditory categorization in the human brain\nCommunication in practice: Sharing our science\n\n\nSpeaker notes go here."
+    "text": "Non-invasively investigating the human auditory brainstem\n\nMapping the human subcortical auditory system\nAuditory–motor interactions across the auditory pathway\nAuditory categorization in the human brain\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#acknowledgments",
     "href": "talk.html#acknowledgments",
     "title": "Imaging the human auditory system",
     "section": "Acknowledgments",
-    "text": "Acknowledgments\n\n\nSoundBrain Lab\nespecially:\n\nBharath Chandrasekaran\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\nJacie McHaney\nKailyn McFarlane\n\n\n\n\nFFR Workshop 2024\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nActive funding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "Acknowledgments\n\n\nSoundBrain Lab\n\nBharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\n\n\n\n\nFFR Workshop 2024\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student), Gabby Butler (Cog Sci UG honors student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nActive funding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#future-directions-hearing-loss",
@@ -410,7 +410,7 @@
     "href": "talk.html#representational-similarity-analysis-rsa-of-auditory-categories",
     "title": "Imaging the human auditory system",
     "section": "Representational similarity analysis (RSA) of auditory categories",
-    "text": "Representational similarity analysis (RSA) of auditory categories\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriatum RSA\n\nStronger Tone than Talker representation overall\nNo significant difference between subdivisions\n\nCortical RSA\n\nStronger Tone than Talker representation overall and for each region\nSignificantly stronger Tone representation in STGp vs. HG or PT\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+    "text": "Representational similarity analysis (RSA) of auditory categories\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriatum RSA\n\nStronger Tone than Talker representation overall (t = = 2.93, p = .014)\nNo significant difference between subdivisions\n\nCortical RSA\n\nStronger Tone than Talker representation overall and for each region\nSignificantly stronger Tone representation in STGp vs. HG or PT\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#fmri-responses-to-feedback-correct-vs.-wrong",
@@ -439,5 +439,12 @@
     "title": "Imaging the human auditory system",
     "section": "Processing variability in our own speech",
     "text": "Processing variability in our own speech\n\n\nRelative to a central production1\n\n\n\n\n\n\nRelative to the previous production2\n\n\n\n\n\n\n\nHoude; Niziolek; Chang;\n\nNiziolek et al. (2013)Sitek, …, Niziolek, & Ford (2013)"
+  },
+  {
+    "objectID": "talk.html#the-developing-auditory-system-speech-in-quiet-vs.-baseline-fmri-contrast",
+    "href": "talk.html#the-developing-auditory-system-speech-in-quiet-vs.-baseline-fmri-contrast",
+    "title": "Imaging the human auditory system",
+    "section": "The developing auditory system: Speech-in-quiet vs. baseline fMRI contrast",
+    "text": "The developing auditory system: Speech-in-quiet vs. baseline fMRI contrast\n\n\n\n\n\n\n\nSSP\n\n\nSitek et al. (in prep.; SNL 2025)"
   }
 ]
