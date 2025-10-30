@@ -604,7 +604,6 @@ Houde; Niziolek; Chang;
 ::::
 
 ::: {.notes}
-Houde; Niziolek; Chang; 
 :::
 
 ## Cortical feedback processing in animals
@@ -656,7 +655,7 @@ Speaker notes go here.
 ## Studying the human subcortical auditory system with EEG
 
 #### The scalp-recorded frequency-following response (FFR) shows the fidelity of incoming sound encoding
-![](images/Coffey2018_Fig1a.png){fig-align="center"}
+![](images/Coffey2018_Fig1a.png){fig-align="center" .fragment}
 
 ::: aside
 Coffey et al. (2018)
@@ -672,7 +671,7 @@ Coffey et al. (2018)
 :::: {layout="[60,40]"}
 
 ::: {.column .fragment}
-#### If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
+### If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
 - Recorded FFRs to /da/ stimulus (alternating polarity)
   - *Active* condition: press a button to generate a sound
   - *Passive* condion: passive presentation of the sound
@@ -783,16 +782,20 @@ If integration is subcortical, would expect to see FFR differences between self-
 
 ## *Where* are motor signals integrated in auditory cortex?
 
-::: {.incremental}
+::: {.fragment}
 - Previous literature implicates auditory cortex as a hub for auditory–motor integration
 - But fMRI has shown *increased* BOLD to self-generated sounds, vs. *suppressed* M/EEG responses^[Reznik et al. (2015)]
-- Are different laminar responses the explanation? 
+- Are different **laminar** responses the explanation? 
+:::
+::: {.fragment}
 - We can look at intra-cortical circuits with ultra-high field **7T fMRI**
   - Depth-dependent BOLD fMRI acquisition
   - 7 participants: 1 mm isotropic voxels, TE = 22.8 ms, MB = 6
   - 1 replication: 0.8 mm isotropic voxels, TE = 21.4, MB = 4
   - Cortical depth profile differences during self-generated vs. passive sound
 :::
+
+![](images/Reznik2014_Figure1a.png){fig-align="center" height="250"}
 
 ::: aside
 Sitek et al. (in prep; OHBM 2025)
