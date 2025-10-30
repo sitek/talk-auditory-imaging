@@ -669,15 +669,26 @@ a, An example neuron’s response to a preferred tone during rest (black) and mo
 Speaker notes go here.
 :::
 
+## Studying the human subcortical auditory system with EEG
+
+#### The scalp-recorded frequency-following response (FFR) shows the fidelity of incoming sound encoding
+![](images/Coffey2018_Fig1a.png){fig-align="center"}
+
+::: aside
+Coffey et al. (2018)
+:::
+
+::: {.notes}
+:::
+
 ## *Where* are motor signals integrated? Subcortically? 
 
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
-#### The scalp-recorded frequency-following response (FFR) shows the fidelity of incoming sound encoding
 :::: {layout="[60,40]"}
 
 ::: {.column .fragment}
-- If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
+#### If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
 - Recorded FFRs to /da/ stimulus (alternating polarity)
   - *Active* condition: press a button to generate a sound
   - *Passive* condion: passive presentation of the sound
@@ -701,11 +712,9 @@ Butler, ..., Sitek (in prep; SNL 2025)
 If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
 :::
 
-## *Where* are motor signals integrated? Subcortically? 
+## Active and passive evoked responses
 
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
-
-### EEG waveforms
 
 :::: {.columns}
 
@@ -726,14 +735,12 @@ Butler, ..., Sitek (in prep; SNL 2025)
 :::
 
 ::: {.notes}
-If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
 :::
 
-## *Where* are motor signals integrated? Subcortically? 
+## Active and passive spectrograms 
 
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
-### EEG spectrograms
 
 :::: {.columns}
 
@@ -754,7 +761,19 @@ Butler, ..., Sitek (in prep; SNL 2025)
 :::
 
 ::: {.notes}
-If integration is subcortical, would expect to see FFR differences between self-generated vs. passive sound
+:::
+
+## Active and passive pitch tracking 
+
+![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
+
+![](images/Butler_etal_2025/Butler_FFR_pitchtracking.png){height="800" fig-align="center"}
+
+::: aside
+Butler, ..., Sitek (in prep; SNL 2025)
+:::
+
+::: {.notes}
 :::
 
 ## *Where* are motor signals integrated? Subcortically?
