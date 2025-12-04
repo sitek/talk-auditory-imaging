@@ -717,11 +717,11 @@ Sound responses: everything significant except for ParsTri
 :::
 ::: {.column width="35%" .fragment}
 
-#### Cortical RSA
+#### Cortical RSA {.fragment}
   - Stronger Tone than Talker representation overall *and for each region*
   - Significantly stronger Tone representation in **STGp** vs. HG or PT
 
-#### Striatum RSA
+#### Striatum RSA {.fragment}
   - Stronger Tone than Talker representation overall (t = = 2.93, p = .014)
   - No significant difference between subdivisions
 
