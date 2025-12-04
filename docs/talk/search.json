@@ -221,7 +221,7 @@
     "href": "talk.html#how-do-humans-learn-new-sensory-categories",
     "title": "Imaging the human auditory system",
     "section": "How do humans learn new sensory categories?",
-    "text": "How do humans learn new sensory categories?\n\n\n\n\n\n\n7 Tesla high resolution functional MRI (1.5 mm isotropic vixels)\n12 non-Mandarin-speaking participants (18–30 years old)\nAuditory category learning task with Mandarin tone stimuli1\n\n\n\nSpeaker notes go here.\n\n\n\nYi et al., 2016; Reetzke et al., 2018; Feng et al., 2019; …"
+    "text": "How do humans learn new sensory categories?\n\n7 Tesla high resolution functional MRI (1.5 mm isotropic vixels) with 12 non-Mandarin-speaking participants (18–30 years old)\nAuditory category learning task with Mandarin tone stimuli (Yi 2016; Reetzke 2018; Feng 2019; …)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#successful-learning-of-new-auditory-categories-in-mri",
@@ -291,7 +291,7 @@
     "href": "talk.html#acknowledgments",
     "title": "Imaging the human auditory system",
     "section": "Acknowledgments",
-    "text": "Acknowledgments\n\n\nSoundBrain Lab\n\nBharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\n\n\n\n\nFFR Workshop 2024\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student), Gabby Butler (Cog Sci UG honors student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nActive funding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "Acknowledgments\n\n\nSoundBrain Lab\n\nBharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student), Gabby Butler (Cog Sci UG honors student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nActive funding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#future-directions-hearing-loss",
@@ -396,7 +396,7 @@
     "href": "talk.html#auditory-fmri-responses-to-sound-presentation",
     "title": "Imaging the human auditory system",
     "section": "Auditory fMRI responses to sound presentation",
-    "text": "Auditory fMRI responses to sound presentation\n\n\n\n\n\n\n\nCortical sound responses\n\n\n\n\n\n\n\n\n\nStriatal sound responses\n\n\n\n\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+    "text": "Auditory fMRI responses to sound presentation\n\n:::\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#representations-of-auditory-categories",
@@ -410,7 +410,7 @@
     "href": "talk.html#representational-similarity-analysis-rsa-of-auditory-categories",
     "title": "Imaging the human auditory system",
     "section": "Representational similarity analysis (RSA) of auditory categories",
-    "text": "Representational similarity analysis (RSA) of auditory categories\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStriatum RSA\n\nStronger Tone than Talker representation overall (t = = 2.93, p = .014)\nNo significant difference between subdivisions\n\nCortical RSA\n\nStronger Tone than Talker representation overall and for each region\nSignificantly stronger Tone representation in STGp vs. HG or PT\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
+    "text": "Representational similarity analysis (RSA) of auditory categories\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCortical RSA\n\nStronger Tone than Talker representation overall and for each region\nSignificantly stronger Tone representation in STGp vs. HG or PT\n\nStriatum RSA\n\nStronger Tone than Talker representation overall (t = = 2.93, p = .014)\nNo significant difference between subdivisions\n\n\n\n\nSound responses: everything significant except for ParsTri\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#fmri-responses-to-feedback-correct-vs.-wrong",
@@ -431,7 +431,7 @@
     "href": "talk.html#how-do-we-learn-new-sensory-categories",
     "title": "Imaging the human auditory system",
     "section": "How do we learn new sensory categories?",
-    "text": "How do we learn new sensory categories?\n\n\n\n\nDorsal striatum contribute to learning new categories thanks to:\n\nits many-to-one projections from distributed cortical networks that subserve motor planning, feedback processing, and decision-making\nits role in task-relevant sensory processing (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)\n\nPrior work in humans shows consistent dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)\nLittle is known about the anatomical pathways that connect the human auditory system to the striatum\nHow do subdivisions of dorsal striatum contribute to category learning?\n\n\n\n\n\n\nLim et al., 2014\n\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "How do we learn new sensory categories?\n\n\n\n\nDorsal striatum contribute to learning new categories thanks to:\n\nits many-to-one projections from distributed cortical networks that subserve motor planning, feedback processing, and decision-making\nits role in task-relevant sensory processing (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)\n\nDorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)\n\nLittle is known about the anatomical pathways that connect the human auditory system to the striatum\nHow do subdivisions of dorsal striatum contribute to category learning?\n\n\n\n\n\n\n\nLim et al., 2014\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#processing-variability-in-our-own-speech",
