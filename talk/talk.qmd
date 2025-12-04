@@ -3,7 +3,7 @@ title: "Imaging the human auditory system"
 subtitle: "Neuroanatomy, motor integration, and categorization"
 author: "Kevin R. Sitek, Ph.D."
 institute: Northwestern University
-date: October 31, 2025
+date: December 5, 2025
 
 title-slide-attributes:
     data-background-image: /images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png
@@ -881,9 +881,9 @@ Speaker notes go here.
 - Dorsal striatum contribute to learning new categories thanks to:
   - its many-to-one projections from **distributed cortical networks** that subserve motor planning, feedback processing, and decision-making
   - its role in **task-relevant sensory processing** (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)
-- Prior work in humans shows consistent dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)
-- Little is known about the anatomical pathways that connect the human auditory system to the striatum
-- How do *subdivisions* of dorsal striatum contribute to category learning?
+- Dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)
+  - Little is known about the **anatomical pathways** that connect the human auditory system to the striatum
+  - How do *subdivisions* of dorsal striatum contribute to category learning?
 :::
 
 ![Lim et al., 2014](images/Lim_striatum-schematic.jpg){fig-align="center"}
@@ -937,7 +937,7 @@ Speaker notes go here.
 
 ## Successful learning of new auditory categories in MRI
 
-![](images/Sitek2025_categorization/Sitek_beh_Figure2.png)
+![](images/Sitek2025_categorization/Sitek_beh_learning-stage.svg){height="900"}
 
 ::: aside
 Sitek et al. (in revision)
@@ -1074,7 +1074,7 @@ Speaker notes go here.
 - Nike Gnanateja (now UW Madison)
 - Casey Roark (now U New Hampshire)
 
-![FFR Workshop 2024](images/people/SoundBrain-lab-current-members-and-alum_FFR-workshop-2024-550x310.jpg)
+![](images/people/SoundBrain-lab-current-members-and-alum_FFR-workshop-2024-550x310.jpg){height="500"}
 
 :::
 
@@ -1235,7 +1235,7 @@ SSP
 Speaker notes go here.
 :::
 
-## Future directions: Hearing loss
+## Future directions: Hearing loss {visibility="hidden"}
 
 :::: {.columns}
 
@@ -1259,7 +1259,7 @@ Speaker notes go here.
 ::: {.notes}
 :::
 
-## Future directions: Analysis methods
+## Future directions: Analysis methods {visibility="hidden"}
 
 :::: {.columns}
 
@@ -1284,13 +1284,13 @@ Speaker notes go here.
 :::
 
 
-# Communication in practice: Sharing our science
+# Communication in practice: Sharing our science {visibility="hidden"}
 
 ::: {.notes}
 Speaker notes go here.
 :::
 
-## Science is not a silo
+## Science is not a silo {visibility="hidden"}
 
 :::: {.columns}
 
