@@ -154,9 +154,14 @@ Speaker notes go here.
   - Collected over 2 sessions
 :::
 
-## Human histology mapping
+## Post mortem anatomical localization
 
-![](images/SitekGulban2019/fig_literature_and_bigbrain.png){fig-align="center" height=800}
+::: {layout-ncol=2}
+![](images/SitekGulban2019_postmortem-1_labeled.png){height="420" .fragment}
+
+![](images/SitekGulban2019_postmortem-2_labeled.png){height="420" .fragment}
+
+:::
 
 ![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
 
@@ -168,12 +173,13 @@ Sitek* and Gulban* et al. (2019 *eLife*)
 Speaker notes go here.
 :::
 
-## Post mortem MRI mapping
+
+## 3D subcortical atlases
 
 ::: {layout-ncol=2}
-![](images/SitekGulban2019_postmortem-1_labeled.png){height="420" .fragment}
+![](images/SitekGulban2019/fig_literature_and_bigbrain.png){height="420" .fragment}
 
-![](images/SitekGulban2019_postmortem-2_labeled.png){height="420" .fragment}
+![](images/SitekGulban2019/fig_exvivo_atlas_3D_atlas.png){height="420" .fragment}
 
 :::
 
@@ -371,7 +377,7 @@ Speaker notes go here.
 ::: {.fragment}
 #### How can we facilitate auditory pathway imaging? 
 - Most research scanners are 3T, not 7T
-- Previous auditory brainstem mapping at 3T used compromised approaches
+- Previous auditory brainstem mapping at 3T used specialized approaches
 :::
 
 ::: {.fragment}
@@ -556,6 +562,232 @@ Moser et al. (2025): https://doi.org/10.1162/imag_a_00426
 "The sample consists of one adult (PA001) and two children (PC001 and PC002; age 10) enrolled at the University of Minnesota (UMN), and one adult (PA002) and three healthy neonates enrolled at Washington University in St. Louis (WashU), ages 28 days (43 weeks postmenstrual age (wPMA); PB004), 12 days (41 wPMA; PB005), and 13 days (41 wPMA; PB001)"
 :::
 
+
+# Auditory categorization in the human brain
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## How do we learn new sensory categories?
+
+::: {layout="[70,30]"}
+
+::: {.incremental}
+- **Dorsal striatum** contribute to learning new categories thanks to:
+  - its many-to-one projections from **distributed cortical networks** that subserve motor planning, feedback processing, and decision-making
+  - its role in **task-relevant sensory processing** (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)
+- Dorsal striatum involved in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)
+  - Little is known about the **anatomical pathways** that connect the human auditory system to the striatum
+  - How do *subdivisions* of dorsal striatum **functionally contribute** to category learning?
+:::
+
+![Lim et al., 2014](images/Lim_striatum-schematic.jpg){fig-align="center"}
+:::
+
+::: aside
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Auditory-striatal pathways in non-human primates
+
+![Macaque (Yeterian & Pandya 1997)](images/YeterianPandya1997.png){fig-align="center" height="800" .fragment}
+
+::: aside
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Auditory-striatal pathways in the human brain
+
+![Sitek et al. (in revision)](images/Sitek2025_categorization/Sitek_tractography_streamlines.png){fig-align="center" height="800" .fragment}
+
+::: aside
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Similar connectivity patterns in humans and macaques
+
+::: {.incremental}
+
+::: {layout="[30,70]"}
+
+![Macaque (Yeterian & Pandya 1997)](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
+
+![Human (Sitek et al. 2022 preprint, in revision)](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="750" .fragment}
+
+:::
+:::
+
+::: aside
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## How do humans learn new sensory categories? {.smaller}
+
+:::: {layout="[30, 35, 35]"}
+
+::: {.incremental}
+- Auditory category learning task with Mandarin tone stimuli^[Yi 2016; Reetzke 2018; Feng 2019; …]
+- 12 **non**-Mandarin-speaking participants (18–30 years old)
+- 7 Tesla high resolution functional MRI (1.5 mm isotropic vixels) 
+
+:::
+
+![](images/Sitek2025_categorization/Sitek_overview_stimuli.png){fig-align="center" height="700" .fragment}
+
+![](images/Sitek2025_categorization/Sitek_overview_imaging.png){fig-align="center" height="700" .fragment}
+
+
+::::
+
+::: aside
+:::
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Successful learning of new auditory categories in MRI
+
+![](images/Sitek2025_categorization/Sitek_beh_learning-stage.svg){height="900" .fragment}
+
+::: aside
+Sitek et al. (in revision)
+:::
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Auditory fMRI responses to sound presentation 
+
+![](images/Sitek2025_categorization/Sitek_sound-vs-baseline_slice.png){height="750" .fragment}
+
+
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Sound responses: everything significant except for ParsTri
+:::
+
+
+## Auditory fMRI responses to sound presentation 
+
+::: {layout-ncol=2 layout-valign="bottom"}
+![Cortical sound responses](images/Sitek2025_categorization/Sitek_Figure1_left.png){height="700" .fragment}
+
+![Striatal sound responses](images/Sitek2025_categorization/Sitek_Figure1_right.png){height="700" .fragment}
+
+:::
+
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Sound responses: everything significant except for ParsTri
+:::
+
+## Are there *representations* of task-relevant auditory categories?
+
+:::: {.columns}
+
+::: {.column width="20%"  .fragment}
+![RSA](images/Sitek2025_categorization/Sitek_RSA-models.png){height="800" fig-align="center"}
+:::
+::: {.column width="45%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_RSA-ROI-results_overall.png){height="850" fig-align="center"}
+:::
+::: {.column width="35%" .fragment}
+
+#### Cortical RSA
+  - Stronger Tone than Talker representation overall *and for each region*
+  - Significantly stronger Tone representation in **STGp** vs. HG or PT
+
+#### Striatum RSA
+  - Stronger Tone than Talker representation overall (t = = 2.93, p = .014)
+  - No significant difference between subdivisions
+
+:::
+::::
+
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Sound responses: everything significant except for ParsTri
+:::
+
+
+## fMRI responses to feedback ("correct" vs. "wrong")
+
+:::: {.columns}
+::: {.column width="50%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_feedback_striatal_all-runs.png){fig-align="center"}
+:::
+::: {.column width="50%"  .fragment}
+![](images/Sitek2025_categorization/Sitek_feedback_striatal_final-vs-early.png){fig-align="center"}
+:::
+::::
+
+:::: {.fragment}
+#### Striatum feedback responses 
+  - Stronger responses *overall* in early vs. final learning stages (runs)
+  - All regions showed positive responses in *early* learning stage
+  - Only **anterior putamen** *maintained* positive responses across all runs
+  - Only **anterior caudate** *significantly decreased* responses from early to final learning stages
+:::
+
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Sound responses: everything significant except for ParsTri
+:::
+
+## Auditory categorization in the human brain
+
+::: {.incremental}
+#### We identified putative cortico–striatal pathways for auditory decision-making {.fragment}
+- Primary/secondary auditory cortex connects more strongly with *posterior* dorsal striatum
+- Non-invasive human connectivity is similar to post mortem tracer patterns in non-human primates (Yeterian & Pandya 1997)
+
+#### Learning a new auditory category broadly activates striatum and auditory cortex {.fragment}
+- Both striatum and cortex develop **representations** of *task-relevant* categories
+- When presented with **feedback**: 
+  - **Anterior caudate** responds highest early on
+  - **Anterior putamen** responds across learning stages
+
+### Putamen and caudate *subdivisions* have unique functional and connectivity profiles {.fragment}
+:::
+::: aside
+Sitek et al. (in revision)
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
 # Auditory–motor interactions across the auditory pathway
 
 ::: {.notes}
@@ -723,7 +955,7 @@ Butler, ..., Sitek (in prep; SNL 2025)
 ::: {.notes}
 :::
 
-## Active and passive spectrograms 
+## Active and passive spectrograms {visibility="hidden"}
 
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
@@ -753,7 +985,7 @@ Butler, ..., Sitek (in prep; SNL 2025)
 
 ![](images/people/GabbyButler.jpeg){.absolute bottom=10 right=10 width="200" height="200"}
 
-![](images/Butler_etal_2025/Butler_FFR_pitchtracking.png){.fragment height="800" fig-align="center"}
+![](images/Butler_etal_2025/Butler_FFR_pitchtracking.png){.fragment height="750" fig-align="center"}
 
 ::: aside
 Butler, ..., Sitek (in prep; SNL 2025)
@@ -861,192 +1093,6 @@ Speaker notes go here.
 
 ::: aside
 Sitek et al. (in prep; OHBM 2025)
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-# Auditory categorization in the human brain
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-## How do we learn new sensory categories?
-
-::: {layout="[70,30]"}
-
-::: {.incremental}
-- Dorsal striatum contribute to learning new categories thanks to:
-  - its many-to-one projections from **distributed cortical networks** that subserve motor planning, feedback processing, and decision-making
-  - its role in **task-relevant sensory processing** (Brovelli et al., 2011; Ell, 2011; Groenewegen, 2003; Lim et al., 2014; Seger, 2008, 2013; Seger and Cincotta, 2005)
-- Dorsal striatal responses in auditory category learning tasks using fMRI (Feng et al., 2019; Lim et al., 2019; Yi et al., 2016)
-  - Little is known about the **anatomical pathways** that connect the human auditory system to the striatum
-  - How do *subdivisions* of dorsal striatum contribute to category learning?
-:::
-
-![Lim et al., 2014](images/Lim_striatum-schematic.jpg){fig-align="center"}
-:::
-
-::: aside
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-
-## Auditory-striatal pathways for learning and categorization
-
-::: {.incremental}
-
-::: {layout="[25,75]"}
-
-![Macaque^[Yeterian & Pandya (1997)]](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
-
-![Human^[Sitek et al. (2022 preprint); Sitek et al. (submitted)]](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="750" .fragment}
-
-:::
-:::
-
-::: aside
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-## How do humans learn new sensory categories?
-
-::: {.incremental}
-- 7 Tesla high resolution functional MRI (1.5 mm isotropic vixels) with 12 **non**-Mandarin-speaking participants (18–30 years old)
-- Auditory category learning task with Mandarin tone stimuli (Yi 2016; Reetzke 2018; Feng 2019; …)
-:::
-
-![](images/Sitek2025_categorization/Sitek_Figure1.png){fig-align="center" height="700" .fragment}
-
-
-::: aside
-:::
-::: {.notes}
-Speaker notes go here.
-:::
-
-
-## Successful learning of new auditory categories in MRI
-
-![](images/Sitek2025_categorization/Sitek_beh_learning-stage.svg){height="900"}
-
-::: aside
-Sitek et al. (in revision)
-:::
-::: {.notes}
-Speaker notes go here.
-:::
-
-## Auditory fMRI responses to sound presentation 
-
-![](images/Sitek2025_categorization/Sitek_sound-vs-baseline_slice.png){height="750" .fragment}
-
-
-::: aside
-Sitek et al. (in revision)
-:::
-
-::: {.notes}
-Sound responses: everything significant except for ParsTri
-:::
-
-
-## Auditory fMRI responses to sound presentation {visibility="hidden"}
-
-::: {layout-ncol=2 layout-valign="bottom"}
-![Cortical sound responses](images/Sitek2025_categorization/Sitek_Figure1_left.png){height="700" .fragment}
-
-![Striatal sound responses](images/Sitek2025_categorization/Sitek_Figure1_right.png){height="700" .fragment}
-
-:::
-
-::: aside
-Sitek et al. (in revision)
-:::
-
-::: {.notes}
-Sound responses: everything significant except for ParsTri
-:::
-
-## Representational similarity analysis (RSA) of auditory categories
-
-:::: {.columns}
-
-::: {.column width="20%"  .fragment}
-![](images/Sitek2025_categorization/Sitek_RSA-models.png){height="800" fig-align="center"}
-:::
-::: {.column width="45%"  .fragment}
-![](images/Sitek2025_categorization/Sitek_RSA-ROI-results_overall.png){height="850" fig-align="center"}
-:::
-::: {.column width="35%" .fragment}
-
-#### Cortical RSA
-  - Stronger Tone than Talker representation overall *and for each region*
-  - Significantly stronger Tone representation in **STGp** vs. HG or PT
-
-#### Striatum RSA
-  - Stronger Tone than Talker representation overall (t = = 2.93, p = .014)
-  - No significant difference between subdivisions
-
-:::
-::::
-
-::: aside
-Sitek et al. (in revision)
-:::
-
-::: {.notes}
-Sound responses: everything significant except for ParsTri
-:::
-
-
-## fMRI responses to feedback ("correct" vs. "wrong")
-
-:::: {.columns}
-::: {.column width="50%"  .fragment}
-![](images/Sitek2025_categorization/Sitek_feedback_striatal_all-runs.png){fig-align="center"}
-:::
-::: {.column width="50%"  .fragment}
-![](images/Sitek2025_categorization/Sitek_feedback_striatal_final-vs-early.png){fig-align="center"}
-:::
-::::
-
-:::: {.fragment}
-#### Striatum feedback responses 
-  - Stronger responses *overall* in early vs. final learning stages (runs)
-  - All regions showed positive responses in *early* learning stage
-  - Only **anterior putamen** *maintained* positive responses across all runs
-  - Only **anterior caudate** *significantly decreased* responses from early to final learning stages
-:::
-
-::: aside
-Sitek et al. (in revision)
-:::
-
-::: {.notes}
-Sound responses: everything significant except for ParsTri
-:::
-
-## Auditory categorization in the human brain
-
-::: {.incremental}
-- Learning a new auditory category broadly activates striatum and auditory cortex
-- Both striatum and cortex develop **representations** of task-relevant categories
-- When presented with **feedback**: 
-  - **Anterior caudate** responds highest early on
-  - **Anterior putamen** responds across learning stages
-- We can use 7T fMRI to understand *fine-grained* striatal activity
-:::
-::: aside
-Sitek et al. (in revision)
 :::
 
 ::: {.notes}
