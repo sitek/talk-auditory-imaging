@@ -60,7 +60,7 @@
     "href": "talk.html#in-vivo-functional-mri-mapping",
     "title": "Imaging the human auditory system",
     "section": "In vivo functional MRI mapping",
-    "text": "In vivo functional MRI mapping\n\n\n7 Tesla functional MRI (1.1 mm voxels)\n\n168 natural sounds (1 s each): speech, voice, nature, tools, music, animals and monkey calls\nSound &gt; baseline contrast\n2 hours per session\nCollected over 2 sessions\n\n\n\n\n\n\n\n\n\n\n\nParticipants listened to 168 natural sounds (1 s long) coming from seven categories (speech, voice, nature, tools, music, animals and monkey calls) presented in silent gaps in between the acquisition of functional volumes and were asked to press a button every time the same sound was repeated. The experimental paradigm followed a rapid-eventrelated design in which sounds were presented with a mean inter stimulus interval of four volumes (minimum three maximum five volumes). The two sessions were identical and each session consisted of twelve functional runs and across the 12 runs each sound was presented three times (i.e. each sounds was presented six times across the two sessions). The 168 sounds were divided in four sets of 42 sounds, each set was presented in three (non consecutive) runs. As a result, the 12 functional runs of each session formed four cross validation sets each one consisting of nine training runs and three testing runs (i.e. 126 training and 42 testing sounds). Note that the testing runs were non overlapping across the cross validations. Catch trials (i.e. sound repetitions) were added to each run, and were excluded from all analyses.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
+    "text": "In vivo functional MRI mapping\n\n\n7 Tesla functional MRI (1.1 mm voxels)\n\n168 natural sounds (1 s each): speech, voice, nature, tools, music, animals and monkey calls\nSound &gt; baseline contrast\n10 healthy participants\n2 hours per session\nCollected over 2 sessions\n\n\n\n\n\n\n\n\n\n\n\nParticipants listened to 168 natural sounds (1 s long) coming from seven categories (speech, voice, nature, tools, music, animals and monkey calls) presented in silent gaps in between the acquisition of functional volumes and were asked to press a button every time the same sound was repeated. The experimental paradigm followed a rapid-eventrelated design in which sounds were presented with a mean inter stimulus interval of four volumes (minimum three maximum five volumes). The two sessions were identical and each session consisted of twelve functional runs and across the 12 runs each sound was presented three times (i.e. each sounds was presented six times across the two sessions). The 168 sounds were divided in four sets of 42 sounds, each set was presented in three (non consecutive) runs. As a result, the 12 functional runs of each session formed four cross validation sets each one consisting of nine training runs and three testing runs (i.e. 126 training and 42 testing sounds). Note that the testing runs were non overlapping across the cross validations. Catch trials (i.e. sound repetitions) were added to each run, and were excluded from all analyses.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
   },
   {
     "objectID": "talk.html#where-are-the-auditory-structures-public-atlases-from-three-sources",
@@ -235,7 +235,7 @@
     "href": "talk.html#auditory-categorization-in-the-human-brain-1",
     "title": "Imaging the human auditory system",
     "section": "Auditory categorization in the human brain",
-    "text": "Auditory categorization in the human brain\nWe identified putative cortico–striatal pathways for auditory decision-making\n\nPrimary/secondary auditory cortex connects more strongly with posterior dorsal striatum\nNon-invasive human connectivity is similar to post mortem tracer patterns in non-human primates (Yeterian & Pandya 1997)\n\nLearning a new auditory category broadly activates striatum and auditory cortex\n\nBoth striatum and cortex develop representations of task-relevant categories\nWhen presented with feedback:\n\nAnterior caudate responds highest early on\nAnterior putamen responds across learning stages\n\n\nPutamen and caudate subdivisions have unique functional and connectivity profiles\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in revision)"
+    "text": "Auditory categorization in the human brain\nWe identified putative cortico–striatal pathways for auditory decision-making\n\nPrimary/secondary auditory cortex connects more strongly with posterior dorsal striatum\nNon-invasive human connectivity is similar to post mortem tracer patterns in non-human primates (Yeterian & Pandya 1998)\n\nLearning a new auditory category broadly activates striatum and auditory cortex\n\nBoth striatum and cortex develop representations of task-relevant categories\nWhen presented with feedback:\n\nAnterior caudate responds highest early on\nAnterior putamen responds across learning stages\n\n\nPutamen and caudate subdivisions have unique functional and connectivity profiles\n\n\nSpeaker notes go here.\n\n\nSitek et al. (in revision)"
   },
   {
     "objectID": "talk.html#finger-motor-representation-in-the-human-brain",
@@ -291,7 +291,7 @@
     "href": "talk.html#acknowledgments",
     "title": "Imaging the human auditory system",
     "section": "Acknowledgments",
-    "text": "Acknowledgments\n\n\nSoundBrain Lab\n\nBharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student), Gabby Butler (Cog Sci UG honors student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nActive funding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "Acknowledgments\n\n\nSoundBrain Lab\n\nBharath Chandrasekaran, Jacie McHaney, Kailyn McFarlane\nNike Gnanateja (now UW Madison)\nCasey Roark (now U New Hampshire)\n\n\n\nNorthwestern: Molly Bright, Michelle Medina (BME PhD student), Gabby Butler (Cog Sci UG honors student)\nUT Austin collaborators: Abhra Sarkar, Noirrit Chandra (now UT Dallas Statistics), Blake Moya (now in industry)\nPitt: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (K01 co-mentor)\nHarvard/MIT: Satra Ghosh (PhD advisor)\nActive funding and support\n\nK01 DC019421 (2023–2027)\nR21 DC022906 (2025–2028)\nR01 DC020963 (2024–2027; PI: Bohland)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#future-directions-hearing-loss",
@@ -319,7 +319,7 @@
     "href": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri",
     "title": "Imaging the human auditory system",
     "section": "Improving brainstem sensitivity at 3T with multi-echo fMRI",
-    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\n\n\n\n\nHow can we facilitate auditory pathway imaging?\n\nMost research scanners are 3T, not 7T\nPrevious auditory brainstem mapping at 3T used specialized approaches\n\n\n\nMulti-echo fMRI improves subcortical (and cortical!) fMRI sensitivity\n\nTypical fMRI uses one readout (“echo”)\nBut optimal echo time (TE) isn’t consistent across the brain\nMulti-echo fMRI allows optimal combination of different TEs across the brain\nAlso enables ICA noise removal across echoes (tedana)\n\n\n\n\n\n\n\nChandana Kodiweera, Ph.D. - Dartmouth BIC\n\n\n\n\n\n\n\nKundu et al. (2017)\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\n\n\n\n\nHow can we facilitate auditory pathway imaging?\n\nMost research scanners are 3T, not 7T\nPrevious auditory brainstem mapping at 3T used specialized approaches\n\n\n\nMulti-echo fMRI improves subcortical (and cortical!) fMRI sensitivity\n\nTypical fMRI uses one readout (“echo”)\nBut optimal echo time (TE) isn’t consistent across the brain\nMulti-echo fMRI allows optimal combination of different TEs across the brain\nAlso enables ICA noise removal across echoes (tedana)\n\n\n\n\n\n\n\nChandana Kodiweera, Ph.D. - Dartmouth BIC\n\n\n\n\n\n\n\nKundu et al. (2017)\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\nMedina et al. (preprint; ISMRM 2025)"
   },
   {
     "objectID": "talk.html#multi-echo-fmri-improves-group-level-brainstem-sensitivity-at-3t",
@@ -340,21 +340,21 @@
     "href": "talk.html#multi-echo-fmri-improves-group-level-sensitivity-at-3t",
     "title": "Imaging the human auditory system",
     "section": "Multi-echo fMRI improves group-level sensitivity at 3T",
-    "text": "Multi-echo fMRI improves group-level sensitivity at 3T\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+    "text": "Multi-echo fMRI improves group-level sensitivity at 3T\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (preprint; ISMRM 2025)"
   },
   {
     "objectID": "talk.html#improved-precision-mapping-with-multi-echo-fmri",
     "href": "talk.html#improved-precision-mapping-with-multi-echo-fmri",
     "title": "Imaging the human auditory system",
     "section": "Improved precision mapping with multi-echo fMRI",
-    "text": "Improved precision mapping with multi-echo fMRI\n\n\n\nMulti-echo requires less scan time to identify auditory thalamus and brainstem\n\n\n\n\n\n\nSubcortical activations are stronger with multi-echo than single-echo fMRI\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+    "text": "Improved precision mapping with multi-echo fMRI\n\n\n\nMulti-echo requires less scan time to identify auditory thalamus and brainstem\n\n\n\n\n\n\nSubcortical activations are stronger with multi-echo than single-echo fMRI\n\n\n\n\n\n\n\n\n\n\n\nMedina et al. (preprint; ISMRM 2025)"
   },
   {
     "objectID": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-1",
     "href": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-1",
     "title": "Imaging the human auditory system",
     "section": "Improving brainstem sensitivity at 3T with multi-echo fMRI",
-    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\n\n\n\nListening task in 3T fMRI\n\n\n14 participants\n10 minutes of pop-song listening\n3 participants returned for precision-mapping session\n\n\n\n\nMulti-echo fMRI acquisition from UMinn CMRR\n\nEcho times = 13.40/39.5/65.6 ms\nWhole-brain coverage with voxel size = 1.731×1.731×4 mm3\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\nMedina et al. (in prep.; ISMRM 2025)"
+    "text": "Improving brainstem sensitivity at 3T with multi-echo fMRI\n\n\n\nListening task in 3T fMRI\n\n\n14 participants\n10 minutes of pop-song listening\n3 participants returned for precision-mapping session\n\n\n\n\nMulti-echo fMRI acquisition from UMinn CMRR\n\nEcho times = 13.40/39.5/65.6 ms\nWhole-brain coverage with voxel size = 1.731×1.731×4 mm3\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\n\n\n\n\n\n\n\n\nSo far, each of the results I’ve shown have used 7 Tesla MRI. These are becoming more prevalent, especially now that the Siemens Terra is approved by the FDA. But they’re still much less common than 3 Tesla MRIs. Fortunately, data acquisition protocols have improved sensitivty even at 3T, so that we can reliably identify auditory midbrain and thalamus.\n\nMulti-echo fMRI acquisition\n\nEcho times = 13.40/39.5/65.6 ms\nRepetition time = 2.2 s\nMultiband factor = 2\nVoxel size = 1.731×1.731×4 mm3\nWhole-brain coverage (44 slices, FOV=180mm)\n\nMulti-echo optimal combination + ICA noise removal (tedana)\n\n\n\nMedina et al. (preprint; ISMRM 2025)"
   },
   {
     "objectID": "talk.html#improving-brainstem-sensitivity-at-3t-with-multi-echo-fmri-2",
@@ -508,7 +508,7 @@
     "href": "talk.html#auditory-striatal-pathways-in-non-human-primates",
     "title": "Imaging the human auditory system",
     "section": "Auditory-striatal pathways in non-human primates",
-    "text": "Auditory-striatal pathways in non-human primates\n\n\n\n\nMacaque (Yeterian & Pandya 1997)\n\n\n\n\n\nSpeaker notes go here."
+    "text": "Auditory-striatal pathways in non-human primates\n\n\n\n\nMacaque (Yeterian & Pandya 1998)\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#auditory-striatal-pathways-in-the-human-brain",
@@ -529,7 +529,7 @@
     "href": "talk.html#similar-connectivity-patterns-in-humans-and-macaques",
     "title": "Imaging the human auditory system",
     "section": "Similar connectivity patterns in humans and macaques",
-    "text": "Similar connectivity patterns in humans and macaques\n\n\n\n\n\n\n\nMacaque (Yeterian & Pandya 1997)\n\n\n\n\n\n\n\n\n\nHuman (Sitek et al. 2022 preprint, in revision)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
+    "text": "Similar connectivity patterns in humans and macaques\n\n\n\n\n\n\n\nMacaque (Yeterian & Pandya 1998)\n\n\n\n\n\n\n\n\n\nHuman (Sitek et al. 2022 preprint, in revision)\n\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "talk.html#are-there-representations-of-task-relevant-auditory-categories",
@@ -550,7 +550,7 @@
     "href": "talk.html#post-mortem-anatomical-localization",
     "title": "Imaging the human auditory system",
     "section": "Post mortem anatomical localization",
-    "text": "Post mortem anatomical localization\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
+    "text": "Post mortem anatomical localization\n\n\n\n\n\n\n\n\n\n\n\n\nSpeaker notes go here.\n\n\nSitek* and Gulban* et al. (2019 eLife)"
   },
   {
     "objectID": "talk.html#d-subcortical-atlases",

@@ -163,8 +163,6 @@ Speaker notes go here.
 
 :::
 
-![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
-
 ::: aside
 Sitek* and Gulban* et al. (2019 *eLife*)
 :::
@@ -199,6 +197,7 @@ Speaker notes go here.
 ### 7 Tesla functional MRI (1.1 mm voxels)
 - 168 natural sounds (1 s each): speech, voice, nature, tools, music, animals and monkey calls
 - Sound > baseline contrast
+- 10 healthy participants
 - 2 hours per session
 - Collected over 2 sessions
 :::
@@ -270,7 +269,7 @@ Speaker notes go here.
 ::: {.r-stack}
 {{< video images/SitekGulban2019/elife-48932-fig3-video1.mp4 width="600%" height="600%" >}}
 
-![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=800 .fragment} 
+![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=777 .fragment} 
 :::
 
 :::
@@ -291,12 +290,12 @@ Speaker notes go here.
 
 ::: {layout-ncol=2}
 
-![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=800} 
+![Post mortem](images/SitekGulban2019/fig_postmortem_streamlines_kevin_v2_faruk_v1_May31.png){fig-align="center" height=777} 
 
 ::: {.r-stack}
 {{< video images/SitekGulban2019/elife-48932-fig6-video1.mp4 width="600%" height="600%" >}}
 
-![In vivo](images/SitekGulban2019/fig_invivo_diffusion_schematic_heatmap+schematic_16May.png){fig-align="center" height=800 .fragment}
+![In vivo](images/SitekGulban2019/fig_invivo_diffusion_schematic_heatmap+schematic_16May.png){fig-align="center" height=777 .fragment}
 :::
 :::
 ![](images/people/Omer-Faruk-Gulban.jpg){.absolute bottom=10 right=10 width="200" height="200"}
@@ -399,7 +398,7 @@ Speaker notes go here.
 
 
 ::: aside
-Medina et al. (in prep.; ISMRM 2025)
+Medina et al. (preprint; ISMRM 2025)
 :::
 
 ::: {.notes}
@@ -449,7 +448,7 @@ so that we can reliably identify auditory midbrain and thalamus.
 ::::
 
 ::: aside
-Medina et al. (in prep.; ISMRM 2025)
+Medina et al. (preprint; ISMRM 2025)
 :::
 
 ::: {.notes}
@@ -475,7 +474,7 @@ so that we can reliably identify auditory midbrain and thalamus.
 ![](images/Medina2025/Medina_Figure1.png){.fragment fig-align="center" height=900}
 
 ::: aside
-Medina et al. (in prep.; ISMRM 2025)
+Medina et al. (preprint; ISMRM 2025)
 :::
 
 ::: {.notes}
@@ -498,7 +497,7 @@ Medina et al. (in prep.; ISMRM 2025)
 ::::
 
 ::: aside
-Medina et al. (in prep.; ISMRM 2025)
+Medina et al. (preprint; ISMRM 2025)
 :::
 
 ::: {.notes}
@@ -525,7 +524,7 @@ Medina et al. (in prep.; ISMRM 2025)
 ::::
 
 ::: aside
-Medina et al. (in prep.; ISMRM 2025)
+Medina et al. (preprint; ISMRM 2025)
 :::
 
 ::: {.notes}
@@ -595,7 +594,7 @@ Speaker notes go here.
 
 ## Auditory-striatal pathways in non-human primates
 
-![Macaque (Yeterian & Pandya 1997)](images/YeterianPandya1997.png){fig-align="center" height="800" .fragment}
+![Macaque (Yeterian & Pandya 1998)](images/YeterianPandya1997.png){fig-align="center" height="800" .fragment}
 
 ::: aside
 :::
@@ -623,7 +622,7 @@ Speaker notes go here.
 
 ::: {layout="[30,70]"}
 
-![Macaque (Yeterian & Pandya 1997)](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
+![Macaque (Yeterian & Pandya 1998)](images/YeterianPandya1997.png){fig-align="center" height="600" .fragment}
 
 ![Human (Sitek et al. 2022 preprint, in revision)](images/Sitek_corticostriatal_endpoints.png){fig-align="center" height="750" .fragment}
 
@@ -769,7 +768,7 @@ Sound responses: everything significant except for ParsTri
 ::: {.incremental}
 #### We identified putative cortico–striatal pathways for auditory decision-making {.fragment}
 - Primary/secondary auditory cortex connects more strongly with *posterior* dorsal striatum
-- Non-invasive human connectivity is similar to post mortem tracer patterns in non-human primates (Yeterian & Pandya 1997)
+- Non-invasive human connectivity is similar to post mortem tracer patterns in non-human primates (Yeterian & Pandya 1998)
 
 #### Learning a new auditory category broadly activates striatum and auditory cortex {.fragment}
 - Both striatum and cortex develop **representations** of *task-relevant* categories
@@ -1145,6 +1144,8 @@ Speaker notes go here.
 **UT Austin collaborators**: Abhra Sarkar, Noirrit Chandra (*now UT Dallas Statistics*), Blake Moya (*now in industry*)
 
 **Pitt**: Jay Bohland, Mandy Hampton Wray, Tamer Ibrahim (*K01 co-mentor*)
+
+**Harvard/MIT**: Satra Ghosh (*PhD advisor*)
 
 #### Active funding and support
 - K01 DC019421 (2023–2027)
